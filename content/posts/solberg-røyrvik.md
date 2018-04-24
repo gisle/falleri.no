@@ -1,0 +1,6 @@
+---
+title: Solberg - Røyrvik
+date: 2008-07-02 10:10:09
+---
+
+<a href="http://www.flickr.com/photos/gisle/2636197580/" title="Siri og Roger vinker god tur videre"><img src="http://farm4.static.flickr.com/3055/2636197580_5a39eb9b60_m.jpg" width="240" height="180" alt="Siri og Roger vinker god tur videre" align="right" /></a>Nå tar jeg fatt på den siste etappen fram til Røyrvik og Limingen Gjestegård; 34 km gjenstår på vei og asfalt. Etter gårdagens avtale med Roger Granli skulle jeg komme til hans gård, Limingen Østre rundt kl. 1200. Der traff jeg i tillegg hans kone Siri og en av sønnene. Heller ikke her ble det bare til et kort besøk. Der ble det lunch med fire egg og masser av bacon. Først nærmere halv fire gikk turen videre. Nå bare med en liten svipptursekk. Roger og Siri skule senere inn på sætra nærmere Røyrvik. Da kom de til å ta med min mye tyngre tursekk. Til Limingen Gjestegård kom jeg fram kl. 2200. Ble hjertelig mottatt av vertskapet Borgny & Fritz. Selvsagt også av min hund Najax. Han hadde hatt det skikkelig godt med god mat og flere lufteturer. Selv fikk jeg så sent på kvelden et gedigent måltid med en pils og en hel liter melk. Deretter var det bare å krype til sengs i en myk og god seng mellom hvite lakener. Ingen liten kontrast til teltlivet.

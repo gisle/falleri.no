@@ -1,0 +1,6 @@
+---
+title: Ljosland Fjellstove
+date: 2007-06-13 14:42:21
+---
+
+Gårdagen etappe videre fra Åseal ble lang og uten de store begivenhetene. Planen var å telte etter noen kilometer fra Åseral, men jeg valgte å gå helt fram til <a href="http://www.fjellstova.com/">Ljosland Fjellstove</a>. Tilsammen fra starten i går morges ble det omentrent 40 kilometer. Jeg skulle egentlig overnatte underveis. Bra teltplass fant jeg, men derimot ikke godt drikkevann på denne delen av veien.  Valgte derfor å gå helt fram til fjellstova. Var framme tidlig på natta og slo opp teltet rett inn i veggen på huset. To bevere som la på svøm da jeg passerte i nattemørket var alt jeg opplevde underveis. Ikke engang en bil på veien. Etter en god frokost vil jeg tilbringe noen timer i en fantastisk fjellutehage. Denne ligger helt inntil fjellstova og er helt utrolig flott. Ljosland Fjellurtehage er navnet. Her på Ljosland Fjellstove blir jeg en eller to dager før jeg legger innover heiane mot Gaukhei turisthytte. Med meg selv er alt vel. Føtter og kropp fungerer perfekt. Etter alle milene på asfalt er det ikke tvil. Det er mine Massai MBT-sko jeg kan takke for alle problemfrie kilometere.  Jeg ser med fryd og lengsel på å ta fjellet fatt.

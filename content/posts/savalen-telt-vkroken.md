@@ -1,0 +1,10 @@
+---
+title: Savalen - Telt v/Kroken
+date: 2007-08-10 10:04:09
+---
+
+Etter en lang etappe dagen før og oppdatering av blogg og bilder ved på hotellets PC ble dagens vandring relativt kort. Fra Savalen  til teltplassen ved Kroken er det bare 6, maksimum 7 km. Teltet ble slått opp like ved bredden av elva Tunna.
+
+Første del av den valgte stien var godt oppgått fram til Hemstadtjørne. Stien var klassert som natursti med flere interresante oppslag. Tre av disse har jeg tatt foto av. Etter Hemstadtjørna var det slutt på stien, men i og med kort vei og til dels snaufjell skapte ikke dette noe problem. Nede ved Kroken fant jeg, som sagt en god teltplass like ved elvebredden.  Jeg hadde knapt fått etablert meg da et par kom roende oppover elva. De kunnne blant annet fortelle at i elva var det bare meget små ørret å få og at den siste gården var blitt fraflyttet alt i 1951. I sin tid var det i bygda 5 bruk på det meste og med 200-250 dyr, stort og smått iberegnet. Skogen var sterkt preget av den tidliger driften på Røros. All furuskogen var uthogd og bjørka hadde innvandret og tatt overhånd. Jeg ble innvitert inn på gården Kroken på kakao og noe å bite i. Gården var nå kun i bruk som feriested. Eldbjørg Sletten var født på Kroken og mannen Svein Sletten var opprinnelig folldøling og hadde jobbet som landbrukssjef i Sel kommune. Begge var nyss blitt pensjonister. Et ordtak sier at verden er mindre enn du tror og her stemte det. Svein hadde gått landbruksskole sammen med Magnar Dahlen som jeg nettopp hadde besøkt i Folldalen. I tillegg var han en av de personene Erling Lusæter hadde hatt sine kontroverser med. (Se <a href="http://falleri.no/2007/07/31/lus%c3%a6ter-gard/">bloggen fra Lusæter gard</a> i juli). Dog skal Svein Sletten ha ære av å gi Erling Lusæter skussmål for iniativ. Svein sa rett ut at mennesker som Erling med ideer og pågangsmot er noe alle bygder trenger.
+
+På turen hjem til teltet var det blitt ganske mørkt. Det underlige skjedde at sauer som i dagslys er ganske skye nå bare var nyskjerige og flere av dem kom helt bortil og luktet på en utstrakt hånd. Natten ble regnfull og likeså neste dag.

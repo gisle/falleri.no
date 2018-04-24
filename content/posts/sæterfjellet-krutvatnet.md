@@ -1,0 +1,14 @@
+---
+title: Sæterfjellet - Krutvatnet
+date: 2008-07-13 20:03:07
+---
+
+En ambisiøs    etappe, jeg beregner den til et sted mellom 27 og 28 kilometere. Fjellområdet jeg for det meste skal gå i er derimot stadig for det alt vesentlige det fine lette terrenget. Først av alt ble det en morgenvask i fjellbekken. Full kroppsvask denne gangen, fra hode til tær, kalt men skjønt.
+
+Fra Sæterfjellet og ned til Tverrelvnes  går det radig. For det meste slake unnabakker på en god sti, noe på vei og ikke for bratt opp til gården Tverrelvnes. Der blir jeg møtt og tatt i mot av Gunder Gardsmark og budt inn på kaffe. Han og kona disker opp. Kaffekjøtt ble det også med kjøtt fra en riktig feit og fin sau. Bare nydelig for en fettsugen fjellvandrer. Med trivelig prat og gode råd gikk tida og først godt og vel 1330 var det på han igjen. Rått regnet 21 km igjen til Krutvatnet og <a href="http://www.statskog.no/index.asp?">Statskogs</a> åpne hytte. Der var mitt opprinnelige planlagte stopp for dagen.
+
+Som tidligere sagt, fjellene her er lettgåtte. Ikke for bratte og med et godt og fast dekke å gå på. Lite stein og ingen vanskelige elver å krysse. Det går greit innover, litt regn, men ikke til å bli skikkelig våt av. Derimot knapt et vindpust og riktig stasvær for mengder av mygg, klegg og fluer. Fri for myggolje ble jeg rene foringsmaskinen og etter capsen å dømme ga jeg mye blod. For andre fjellvandrere, dere finner en åpen hytte i nordenden av Mosvatnet. Det er ei åpen reingjeterhytte, enkel, men helt grei for å ta inn i. Dersom noen planlegger å bruke den anbefaler jeg å ta med litt ved fra lavere områder. Det er ovn, men det kan være dårlig med brensel og vi skal vel heller ikke bruke av den veden samene har kjørt inn.
+
+Videre innover forbi Brunreinvatnet trasker jeg trasker jeg i veg. Her inne hadde jeg blitt anbefalt Grensetjørne som gode ørretvann med fine teltplasser. En stopp her med fiske krever nok en ekstra liggedag. Jeg har derimot andre planer og et annet område jeg har tenkt å ligge over ved. Går derfor forbi og ned til Krutvatnet. Det siste stykket forbi Fisktjørna og til Statskoghytta (GPS-pos. 74470 - 86700) går på en meget god og lettgått sti. Hytta ble oppsatt i 1997 og er åpen med gass, ved og parafinlampe.
+
+Til slutt må jeg få gi skryt til de ansvarlige for rutemerkinga på denne delen av <a href="http://www.nordlandsruta.no/">Nordlandsruta.</a> Merkinga var god, til dels meget god. Bare på noen få plasser tok jeg feil. Det var mest for at jeg selv var uoppmerksom, men med kursen på kompassen er det lett å ta seg inn igjen. Den siste delen derimot fra omtrent Rauvassdalen og videre mot Fisktjørna manglet det til dels merking. For en uerfaren og mindre sikker person kan dette muligens by på noen problemer. <a href="http://www.turistforeningen.no/brurskanken/">Brurskanken turlag</a>, er det dere som har ansvaret har dere gjort en flott og imponerende jobb.

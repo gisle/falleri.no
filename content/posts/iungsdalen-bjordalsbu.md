@@ -1,0 +1,10 @@
+---
+title: Iungsdalen - Bjordalsbu
+date: 2007-07-13 08:54:39
+---
+
+Planen var egentlig å gå forbi Bjordalsbu og telte noe lengere framme mot Breistølen. Ble tilnærmet rådet til å stoppe og ligge over i Bjordalsbu på grunn av umulige teltforhold oppe i høyden. I stedet for start kl. 0900 startet jeg derfor rundt 1130 og var framme ved Bjordalsbu kl. 1930.
+
+Tilbake til den egentlige turen. Ruta går gjennom Fødalen naturreservat i et flott lende, men opp 600 høydemeter fra 1100 til 1700 meter på det høyeste. Turen inn og opp fjelliene i Fødalen steg rolig i gress- og  lyngkledde skråninger.  Ved Klevavatnet  var det en ganske så tøff snøfonn å forsere. Jeg stemplet godt og en familie med to relativt små gutter greide å ta seg opp etter meg. Herfra gikk turen opp og rett inn i Helvetet på 1500 meter. Ja, de kaller en fjellformasjon så. I tillegg har jeg tidligere passert Helvetesnutane og Helvestesgjelet så det må være et populært ord å bruke på disse trakter. Selv syntes jeg ikke turen opp og rundt Helvetet var særlig tøff, men mulig det kan blåse kraftig i kastene i dette passet. Videre innover til Valevatnet noe opp og ned. Etter rast ved vatnet bar det jevnt oppover til 1700 meter. Her gikk jeg i en type steinur jeg var blitt forespeilet, Opp-, ned- og bortoverstein. Over en strekning på kanskje 5 km var det mest bare stein, men ispedd noen dryasområder med enorme mengder issoleie, vakkert. Ved rundingen av 1700 m koten kunne jeg ikke dy meg. Fikk av meg sekken og kom meg opp på toppen, 1771 m. Nuten har ikke noe navn på kartet, men hva gjør vel det. 1771 m er det høyeste jeg har vært oppe på. Enn så lenge er mine to steiner høyeste punkt på varden  her oppe. Herfra bare et kort stykke, 4-5 km igjen til Bjordalsbu. Mye stein i denne høyden, men også gode faste nordvendte snøfonner å gå på.
+
+Vel framme regnet jeg mest med å bli aleine på hytta. Kommer ut for å hente vann, der står det jagu en mann til. Roar, han betegnet seg selv som bygutt, men måtte på fem minutter lære seg den elementære teknikken med å kløyve ved. Nå er hytta varm og vi kan la roen senke seg.
