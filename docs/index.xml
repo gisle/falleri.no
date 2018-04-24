@@ -1,14 +1,1548 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Den glade vandrer</title>
+    <link>http://falleri.no/</link>
+    <description>Recent content on Den glade vandrer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jul 2009 14:21:21 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://falleri.no/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Utsatt start siste etappe</title>
+      <link>http://falleri.no/posts/utsatt-start-siste-etappe/</link>
+      <pubDate>Mon, 27 Jul 2009 14:21:21 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/utsatt-start-siste-etappe/</guid>
+      <description>I dag, 27. juli skulle jeg vært i gang med den siste delen av min tur fra Lindesnes - Nordkapp. Dessverre, for en tid tilbake brakk jeg venstre håndledd og det er bare to uker siden fiksasjonsutstyret ble fjernet. I min naivitet trodde jeg at 14 dager med trening og terapi skulle holde og at jeg kunne starte som planlagt. Jeg er bedre, men hånden er uten kraft og fungerer dårlig.</description>
+    </item>
+    
+    <item>
+      <title>Goldahytta – Kilpisjärvi</title>
+      <link>http://falleri.no/posts/goldahytta-kilpisjarvi/</link>
+      <pubDate>Sun, 31 Aug 2008 18:04:30 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/goldahytta-kilpisjarvi/</guid>
+      <description>Rim på bakken med klarvær og sol. Termometeret vist en minimumstemperatur i løpet av natten på 3,4 minusgrader. Men i dag er det stille og som sagt sola skinner. Her på Golda har forresten Troms Turlag lagt alt til rette også for oss hundeeiere. Det står i boka at det er en forsøksordning. Hvorfor forstår jeg ikke riktig og det er bare å håpe at TT tar til vett og legger til rette på alle sine hytter både for folk med og uten hund.</description>
+    </item>
+    
+    <item>
+      <title>Pältsa – Goldahytta</title>
+      <link>http://falleri.no/posts/paltsa-goldahytta/</link>
+      <pubDate>Sat, 30 Aug 2008 17:57:37 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/paltsa-goldahytta/</guid>
+      <description>Tidlig oppe til hvite fjell. Spesielt fjellet Pältsan på 1444 m varsler den kommende vinteren. Det blåser ganske kraftig fra nord og her nede ved hytta er det et iskaldt regn. Regnet går senere over til sludd og det hvite kryper lengre nedover fjellsidene. Hytteverten hadde hørt værmelding og det skulle lette noe utover dagen. Jeg tok derfor livet med ro også her på Pältsa og startet først klokken ett mot Golda.</description>
+    </item>
+    
+    <item>
+      <title>Rostojävri – Pältsastugan</title>
+      <link>http://falleri.no/posts/rostojavri-paltsastugan/</link>
+      <pubDate>Fri, 29 Aug 2008 17:56:39 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/rostojavri-paltsastugan/</guid>
+      <description>En stille oppvåkning kl. 0730 etter en god natts søvn. Både mine hyttevenner og jeg selv tar oss god tid samtidig som vi skal gå i hver vår retning. Senjaværingene til Dærta og jeg til Pältsa. Først kl. 1230 er jeg klar til å dra. Det er nå blitt så pass langt ut på dagen at jeg dropper turen fram om Steinbua og tar en mer direkte linje fram til Pältsastugan.</description>
+    </item>
+    
+    <item>
+      <title>Dærta – Rostojävri</title>
+      <link>http://falleri.no/posts/d%C3%A6rta-rostojavri/</link>
+      <pubDate>Wed, 27 Aug 2008 17:48:07 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/d%C3%A6rta-rostojavri/</guid>
+      <description>Her fra Dærta tar jeg en helt ny rute i forhold til min opprinnelige plan over Rosta, Gappo og til Golda. Nå blir det i stedet Statskoghytta ved Rostojävri, Steinbua ved Rostaelva, Pältsastugan på svensk side, gjennom Varratvuoopmi og Gahpuruovddas og inn på Nordkalottruta ved Valljihat, om Treriksrøysa og til Goldahytta. Beregnet distanse 65 km. Dette er noe lengre enn den opprinnelige planen, men skal være mye bedre og lettere å gå.</description>
+    </item>
+    
+    <item>
+      <title>Dividalen – Dærtahyttene</title>
+      <link>http://falleri.no/posts/dividalen-d%C3%A6rtahyttene/</link>
+      <pubDate>Tue, 26 Aug 2008 17:44:23 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/dividalen-d%C3%A6rtahyttene/</guid>
+      <description>Etter at ungdommene dratt gjør også jeg meg klar til avgang. Nå med Dærtahyttene som mål. Skiltet sier 24 km, jeg har beregnet avstanden til 26 km. Uansett det ene eller det andre, som en «travel mann» tar jeg av allerede kl. 1220. Lia opp fra hytta og til høyden oppunder Litle Jerta er kort og brutal. 420 høydemetere på 3 km er bratt og da er det godt med utkvilte bein.</description>
+    </item>
+    
+    <item>
+      <title>Vuomajävri – Dividalshytta</title>
+      <link>http://falleri.no/posts/vuomajavri-dividalshytta/</link>
+      <pubDate>Mon, 25 Aug 2008 17:32:57 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/vuomajavri-dividalshytta/</guid>
+      <description>Etter en lang og trivelig morgen og formiddag legger jeg i veg kl. 1050 mot Dividalshytta. Mine ti hyttevenner fra Tromsø, Hans og Solveig rådet meg til å ta veien over rabbene sør om Vuomajãvri. De fortalte at den merkede stien var en god del gjørmete og oppgått langsetter Anjajokha. Det ble et fornuftig valg. Lettgått og med stadige tråkk etter rein og dermed et stisystem å gå etter.</description>
+    </item>
+    
+    <item>
+      <title>Gaskashytta – Vuomahytta</title>
+      <link>http://falleri.no/posts/gaskashytta-vuomahytta/</link>
+      <pubDate>Sat, 23 Aug 2008 17:27:50 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/gaskashytta-vuomahytta/</guid>
+      <description>Ikke ble det napp og fisk i går og dermed ble det med stekt sopp, potetpurre og reinkjøtt til gårsdagens middag. Jeg er som vanlig oppe i sekstida, men tar det for det meste med ro. Drikker min morgenkaffe, pakker, spiser og steller etter meg. Denne dagen er jeg iveg allerede kl. 1000. Det er tidlig til meg å være og jeg går oppover Gaskkasvággi i retning nordover mot Vuomahytta.</description>
+    </item>
+    
+    <item>
+      <title>Huskyfarm Innset - Gaskashytta</title>
+      <link>http://falleri.no/posts/huskyfarm-innset-gaskashytta/</link>
+      <pubDate>Fri, 22 Aug 2008 23:03:04 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/huskyfarm-innset-gaskashytta/</guid>
+      <description>Etter to gode dager på Huskeyfarmen er planen for denne dagen å ta seg inn til Gaskashytta. Dagene her på Huskyfarmen har vært ganske spesielle og meget avslappende. Mest spesielt ble det nok for Najax. Det ble utebur for han sammen med 70 andre hunder. Menge seg med huskyene fikk han nok ikke, men buret til Najax var kloss inn på resten av hundene. To ulekor i døgnet der samtlige 70 huskys deltok må da ha virket inn selv på en Golden Retrivier.</description>
+    </item>
+    
+    <item>
+      <title>Ganesbákti - Huskyfarm Innset</title>
+      <link>http://falleri.no/posts/ganesbakti-huskyfarm-innset/</link>
+      <pubDate>Wed, 20 Aug 2008 11:01:50 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/ganesbakti-huskyfarm-innset/</guid>
+      <description>Som fortalt i går krøp jeg ned i soveposen for å få varme i kroppen. Klokken var da 1900. I dag kl. 0500 våknet jeg. Det gikk med andre ord 12-13 timer før det ble mat både på meg og Najax. Vel, selv hadde jeg spist både noe sjokolade, nøtter og litt reinkjøtt før jeg sovnet av.
+Den tidlige morgenen var rå og kald med tåke. Jeg teltet da også i et nakent fjellandskap på 950 moh.</description>
+    </item>
+    
+    <item>
+      <title>Abisko - Telt v/Ganesbákti</title>
+      <link>http://falleri.no/posts/abisko-telt-vganesbakti/</link>
+      <pubDate>Tue, 19 Aug 2008 10:58:26 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/abisko-telt-vganesbakti/</guid>
+      <description>Etter tre netter og to hele dagers hvile er både jeg og Najax klar for ny innsats. Det jeg derimot ikke vil utsette Najax for er en 15-16 km tur på vei og asfalt. Derfor blir det buss fra Abisko til stien ved Njuoraeatnu. En annen sak er at Najax plent nekter å gå på vei og asfaltdekke med kløv. Han må både trues og lokkes. Inspirasjonen er lik null. Vi entrer nå den rene Nordkalottruta med kurs i første omgang til Lappjordhytta.</description>
+    </item>
+    
+    <item>
+      <title>Aliseatnu - Abisko turiststasjon</title>
+      <link>http://falleri.no/posts/aliseatnu-abisko-turiststasjon/</link>
+      <pubDate>Sat, 16 Aug 2008 08:47:09 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/aliseatnu-abisko-turiststasjon/</guid>
+      <description>Denne dagen har jeg store planer for. Jeg tenker rett og slett å gå helt fram til Abisko. Det er en strekning på ca. 42 km. Et lettgått terreng og for det meste nedoverbakke så det burde være mulig. I alle fall våkner jeg tidlig til en fin, men kald morgen. Nysnø har falt på toppene rundt meg der jeg teltet på ca. 850 moh. og temperaturen kan ikke være på mange plussgrader.</description>
+    </item>
+    
+    <item>
+      <title>Hukejaure - Sälkastugorna</title>
+      <link>http://falleri.no/posts/hukejaure-salkastugorna/</link>
+      <pubDate>Thu, 14 Aug 2008 08:43:22 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/hukejaure-salkastugorna/</guid>
+      <description>Vinden har snudd og kommer fra nordvest. Været er halvskyet med en nokså kald vind, men med vinden i ryggen vil det bare bli godt å gå. Bettina starter i motsatt retning og etter en god klem vinker hun farvel. Selv starter jeg ikke før rundt kl. 1200 og har omtrent 22-24 km å gå fram til Sälka. Turen fram går nå i et litt mere kuppert terreng enn tidligere. Også noe mer ur, men fortsatt lettgått.</description>
+    </item>
+    
+    <item>
+      <title>Sitasjaure - Hukejaurestugan</title>
+      <link>http://falleri.no/posts/sitasjaure-hukejaurestugan/</link>
+      <pubDate>Wed, 13 Aug 2008 08:42:40 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/sitasjaure-hukejaurestugan/</guid>
+      <description>I dag står det ca. 22 km for tur fram til Huejaurestugan. Jeg har det slettes ikke travelt og tar det derfor med ro og forlater hytta først kl. 1050. I det området jeg nå er i er det svært flatt for å si det mildt. Andre folk er det heller ikke å se. Her er det bare meg og Najax i fjellet. Det er også lite annet liv. Ingen dyr, ikke en gang en rein og knapt nok en fugel å se.</description>
+    </item>
+    
+    <item>
+      <title>Ritsem - Sitasjaure</title>
+      <link>http://falleri.no/posts/ritsem-sitasjaure/</link>
+      <pubDate>Tue, 12 Aug 2008 08:34:14 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/ritsem-sitasjaure/</guid>
+      <description>Etter en ekstra natt på Ritsem, så la en vel uthvilt hund og mann i vei kl. 1230 mot Sitasjaure. Også der kommer jeg mest sannsynlig til å ta inn på en av hyttene til STF. Dagen i dag vil bli på 22 km og går på vei, men på en lite trafikkert vei. De første 2 kilometerne er asfaltert, deretter en gruset anleggsvei bygd av Vattenfall.
+Om turen fram til Sitasjaure er det egentlig ikke så mye å si.</description>
+    </item>
+    
+    <item>
+      <title>Rautujaure - Ritsem</title>
+      <link>http://falleri.no/posts/rautujaure-ritsem/</link>
+      <pubDate>Sun, 10 Aug 2008 16:27:58 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/rautujaure-ritsem/</guid>
+      <description>Nordkalottleden byr ikke på mange overraskelser på denne delen. Den er mest å regne som en transportetappe. Jeg bruker rundt 4 timer fram til Vaisaluokstugan, en av STF sine hytter. Derfra vil jeg ta båt på Akkajauvre til Ritsem. Båten går først kl. 2015 og jeg har masser av tid til rådighet.
+Akkurat da jeg kom var det bytte av hyttevert. Begge to trivelige personer som tok hjertelig i mot meg.</description>
+    </item>
+    
+    <item>
+      <title>Njallajávrre - Rautujauvre</title>
+      <link>http://falleri.no/posts/njallajavrre-rautujauvre/</link>
+      <pubDate>Sat, 09 Aug 2008 16:25:43 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/njallajavrre-rautujauvre/</guid>
+      <description>Jeg er nå inne i Sverige og den delen av nabolandet jeg må låne på min tur til Nordkapp. I et meget flatt, åpent og lettgått terreng går det fort framover. Det er ikke så mye mer å si om denne delen enn at jeg følger Nordkalottleden på en god sti. Over hver minste myr er stien kloppet. Likeså er det stort sett bro elle klopp over alle elver og nesten hver minste bekk.</description>
+    </item>
+    
+    <item>
+      <title>Gieversluoppal - Njallajävrre</title>
+      <link>http://falleri.no/posts/gieversluoppal-njallajavrre/</link>
+      <pubDate>Fri, 08 Aug 2008 16:20:08 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/gieversluoppal-njallajavrre/</guid>
+      <description>I dag hadde jeg egentlig planlagt en helt kort etappe fram til Gurtejávre. Dessverre var også dette et fisketomt vatn. Da jeg er på ca 200 moh og rett øst om Hellemobotn legger jeg derfor veien videre opp kanten av canyonen og innover mot Sverige. Hellemobotn og landskapet oppover i fjeller er bare helt utrolig spektakulært. Jeg er også heldig med været; sol og helt klar luft, ikke en regndråpe. Heldig både for å se og ikke minst for å ta seg trygt fram i steile bergsider på bart fjell.</description>
+    </item>
+    
+    <item>
+      <title>Livsejavrre - Giversluoppal</title>
+      <link>http://falleri.no/posts/livsejavrre-giversluoppal/</link>
+      <pubDate>Thu, 07 Aug 2008 16:17:11 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/livsejavrre-giversluoppal/</guid>
+      <description>Vann- og elvesystemet ved Gieversluoppal ser på kartet meget lovende ut. Jeg har tidligere planlagt en ekstra dag i dette området med fiske og en ekstra hviledag. Turen dit er forholdsvis kort og jeg regner derfor med å være tidlig framme. I fjellsida nord for Gihttse sitter jeg bare og beundrer landskapet og vannsystemet. Etter rasten går det greit nedover et forholdsvis bratt terreng. Vel ned kommer jeg til et elveleie med bratte steile fjellskråninger på begge sider.</description>
+    </item>
+    
+    <item>
+      <title>71-åring går Norge på langs</title>
+      <link>http://falleri.no/posts/71-aring-gar-norge-pa-langs/</link>
+      <pubDate>Thu, 07 Aug 2008 10:32:23 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/71-aring-gar-norge-pa-langs/</guid>
+      <description>I dagens utgave av Saltenposten er det er flott oppslag om Gunnars tur.
+FAUSKE: Mandag ringer Saltenposten den spreke 71-åringen fra Mo i Rana. Ryktet sier at han nærmer seg Fauske på sin tur fra Lindesnes til Nordkapp. ... </description>
+    </item>
+    
+    <item>
+      <title>Basis - Livsejavrre</title>
+      <link>http://falleri.no/posts/basis-livsejavrre/</link>
+      <pubDate>Wed, 06 Aug 2008 16:15:02 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/basis-livsejavrre/</guid>
+      <description>Endelig ute i naturen igjen. Først anleggsveien fram til sørenden av Stillelva og deretter lia opp mot Livsejavrre. Det går for det meste slakt opp på brukbar sti, delvis merket. Sør om Livsejavrre går jeg i gammelt brelandskap. Nede ved vatnet med en reguleringshøyde på 60m ser det lite innbydende ut. Teltet blir derfor slått opp i høyden en liten kilometer fra vatnet. Da Livsejavrre heller ikke innbyr til fiske blir det egen proviant for kvelden.</description>
+    </item>
+    
+    <item>
+      <title>Fauske - Soldatmoen (Basis)</title>
+      <link>http://falleri.no/posts/fauske-soldatmoen-basis/</link>
+      <pubDate>Tue, 05 Aug 2008 16:08:39 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/fauske-soldatmoen-basis/</guid>
+      <description>Siste dag på E6; 26 km fram til Megården. Der kommer min sønn Eskil for å kjøre meg gjennom 15 tuneller og 50 km vei fram til Kobbvatnet. Han har samtidig med Najax og proviant for de kommende 13-14 dagene fram til Innset ved Altevatnet. Turen fra Fauske gikk for det meste på Holtanveien, bygdeveien ovenfor E6. Denne veien gikk jeg helt fram til Straumen. Toppen 6 biler passete meg da medregnet både mot- og medgående trafikk.</description>
+    </item>
+    
+    <item>
+      <title>Rognan – Fauske Hotell</title>
+      <link>http://falleri.no/posts/rognan-fauske-hotell/</link>
+      <pubDate>Mon, 04 Aug 2008 09:31:41 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/rognan-fauske-hotell/</guid>
+      <description>I dag er det rene hvileetappen med kun 32 km til Fauske. Det er 3 veitunneler på E6, men på spørsmål får jeg opplyst at jeg kan gå rundt samtlige tre. Det er godt å vite at jeg både slipper faren med å gå gjennom tunnelene og alt bulderet og eksosen. 7,5 timer bruker jeg på veien inklusiv pauser. Framme på Fauske Hotell blir jeg hjertelig mottatt og i tillegg møtt av en journalist fra Saltenposten, den lokale avisa på Fauske.</description>
+    </item>
+    
+    <item>
+      <title>Lønsstua – Rognan Hotell</title>
+      <link>http://falleri.no/posts/l%C3%B8nsstua-rognan-hotell/</link>
+      <pubDate>Sun, 03 Aug 2008 09:28:57 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/l%C3%B8nsstua-rognan-hotell/</guid>
+      <description>Det ble seint i går og jeg våknet først nærmere halvni. En rask frokost, opprydding og ut på veien klokken 0945. Marit tilbyr seg å kjøre ryggsekken ned til Nordnes og kafeen/campingen der. Jeg takker med glede ja. Omentrent halve veien uten sekk letter betraktelig. Jeg har tross alt 48 km på vei foran meg. Det vil samtidig passe ypperlig å spise middag på Nordnes. En 7-8 kilometerne før Nordnes kan jeg forlate den nye E6 og gå resten av veien til Rognan på gammelveien.</description>
+    </item>
+    
+    <item>
+      <title>Sølvbekken – Lønsstua</title>
+      <link>http://falleri.no/posts/s%C3%B8lvbekken-l%C3%B8nsstua/</link>
+      <pubDate>Sat, 02 Aug 2008 09:23:46 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/s%C3%B8lvbekken-l%C3%B8nsstua/</guid>
+      <description>I dag er det en riktig lang etappe som står for tur. Først 17-18 km i fjellet fram til Stødi og deretter 24 km på E6en til Lønsstua. Innover fjellet fra Sølvbekken går det greit. Sola skinner og tørt og fint er det innover. Slakt oppover, men noe steinete noe høyere oppe. Vi passerer øst om gamle Nasa Sølvgruver, men tar først en lengre rast godt nedenfor reingjeterhytta. Vannet i bekken er ganske så kaldt og er nesten det beste av alt.</description>
+    </item>
+    
+    <item>
+      <title>Virvatnet – Sølvbekken</title>
+      <link>http://falleri.no/posts/virvatnet-s%C3%B8lvbekken/</link>
+      <pubDate>Fri, 01 Aug 2008 09:20:34 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/virvatnet-s%C3%B8lvbekken/</guid>
+      <description>Endelig, etter 12 dager hjemme på Mo er jeg i gang igjen. I går ettermiddag ble jeg kjørt opp til &amp;ldquo;dammen&amp;rdquo; og gikk de 6 kilometerne til Virvasshytta. God plass var det på tross av at 21 Rødøyværinger var ved vatnet. Bare 4-5 av ungene og en bestemor overnattet på hytta. Resten av gjengen teltet og alt matstellet gjorde de ute ved bålet. For meg ble det en trivelig kveld sammen med hyggelige mennesker.</description>
+    </item>
+    
+    <item>
+      <title>Takk til personer</title>
+      <link>http://falleri.no/pages/takk-til-personer/</link>
+      <pubDate>Wed, 30 Jul 2008 18:21:16 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/takk-til-personer/</guid>
+      <description>Jeg vil på denne måten gi en takk til alle, både mine nærmeste og andre som på en eller annen måte har gjort turen mulig. Enten direkte til hjelp eller gitt meg assistanse underveis.
+Først og fremst gjelder det min kone Sara som har tatt belastningen med å ha meg gående alene bare med hunden i fjellet.
+Dernest min sønn Gisle som har forberdt og vedlikeholder min hjemmeside. Han oppdaterer også bloggen etter hvert som jeg sender E-post og bilder fra turen.</description>
+    </item>
+    
+    <item>
+      <title>Mo i Rana - 19.-31. juli</title>
+      <link>http://falleri.no/posts/mo-i-rana-19-31-juli/</link>
+      <pubDate>Mon, 28 Jul 2008 10:38:43 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/mo-i-rana-19-31-juli/</guid>
+      <description>Min opprinnelige plan om å starte opp igjen fra Umbukta 19. juli er helt forkastet og er utsatt til 1. august. Det er flere grunner til forsinkelsen og ikke bare latskap. 2 favner ved ble levert og må tas vare på og lagres. Plener må stelles og slås. En sønn flytter til ny leilighet og hjelp behøves både til flytting og vasking av gammel bolig. Diverse småting i forbindelse med turen må videre ordnes.</description>
+    </item>
+    
+    <item>
+      <title>Gressvasshytta - Umbukta Fjellstue</title>
+      <link>http://falleri.no/posts/gressvasshytta-umbukta-fjellstue/</link>
+      <pubDate>Fri, 18 Jul 2008 00:10:39 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/gressvasshytta-umbukta-fjellstue/</guid>
+      <description>Nok en etappe på vel 30 km står for tur. Men med denne etappen gjør jeg en liten vri. Fra Gressvasshytta fram til Gressvassdammen går jeg med normal sekk. Der setter jeg igjen alt jeg ikke trenger for dagen. Blant annet telt, sovepose, ekstra klær, fiskeutstyr osv. Det er fordelen med å komme hjem. Alt dette utstyret kjører jeg opp og henter dagen etter.
+Fra Kjensvassmoen går jeg innover Storskaret med uvanlig lett sekk.</description>
+    </item>
+    
+    <item>
+      <title>Tiurskardtjørna - Gressvasshytta</title>
+      <link>http://falleri.no/posts/tiurskardtj%C3%B8rna-gressvasshytta/</link>
+      <pubDate>Thu, 17 Jul 2008 18:03:43 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/tiurskardtj%C3%B8rna-gressvasshytta/</guid>
+      <description>Jeg er tidlig oppe for å prøve fiskelykka i den søndre Tiurskardtjørna. Vak så jeg da jeg kom over fjellet i går ettermiddag. Det er nok røyr som er i disse vatna og en rolig formiddag med nytrukket røye til lunch ville vært en ideel start på nok en rolig dag. Skuffelsen siger innpå da også denne tjørna viser seg å være grunn. Samme resultat som i går. Ingen fisk, men bunnvegetasjon hvert eneste kast.</description>
+    </item>
+    
+    <item>
+      <title>Ingetjørna - Tiurskardtjørna</title>
+      <link>http://falleri.no/posts/ingetj%C3%B8rna-tiurskardtj%C3%B8rna/</link>
+      <pubDate>Wed, 16 Jul 2008 23:03:25 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/ingetj%C3%B8rna-tiurskardtj%C3%B8rna/</guid>
+      <description>Denne dagen har jeg også bare en kort tur foran meg. Fram til Tiurskardet og ned til tjørnene er det neppe mer enn 6 km. Ingen grunn til å haste på selv om jeg forventer bedre fiskelykke i Tiurskardtjørna enn det jeg hadde i Ingetjørna og Storbekktjørna. På veien over fjellet tar jeg det pent og rolig og riktig nyter fornuften i hva en helt avslappende dag kan gi. På veien ned mot tjørnene ser jeg fisken vake i det søndre vannet.</description>
+    </item>
+    
+    <item>
+      <title>Sivertgården - Ingetjørna</title>
+      <link>http://falleri.no/posts/sivertgarden-ingetj%C3%B8rna/</link>
+      <pubDate>Tue, 15 Jul 2008 22:15:22 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/sivertgarden-ingetj%C3%B8rna/</guid>
+      <description>Etter en god dag, en deilig fredfull natt og en herlig formiddag på Sivertgården planlegger jeg for to korte og lette etapper med telting og fiske. I dag er målet Ingetjørna, hele 5 km å gå fra fra Sivertgården. Kort og greit. Jeg vandrer først stien vestover mot Varntresk, dreier østover ved Møllebekken i retning mot Storbekktjørna og Ingetjørna. Strake veien langs Kilvassaksla på en gammel, delvis rødmerket, men god sti.</description>
+    </item>
+    
+    <item>
+      <title>Krutvatnet - Sivertgården</title>
+      <link>http://falleri.no/posts/krutvatnet-sivertsgarden/</link>
+      <pubDate>Mon, 14 Jul 2008 20:44:56 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/krutvatnet-sivertsgarden/</guid>
+      <description>Litt regn og tåke er det oppe i fjellen nå på morgenparten. Jeg skriver mine kladder til bloggen inne på Statskoghytta. Spiste, ordnet hytta og gjorde meg klar for neste etappe, ca. 19 km fram til Åke Sæterstad ved Famnvatnet. Da jeg forlot hytta nærmere 1200 var solen kommet fram og tåka hadde lettet. Alt lå til rette for nok en herlig dag i fjellene. Langs Krutvatnet var stien nettopp ryddet for småkjerr og busker.</description>
+    </item>
+    
+    <item>
+      <title>Sæterfjellet - Krutvatnet</title>
+      <link>http://falleri.no/posts/s%C3%A6terfjellet-krutvatnet/</link>
+      <pubDate>Sun, 13 Jul 2008 20:03:07 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/s%C3%A6terfjellet-krutvatnet/</guid>
+      <description>En ambisiøs etappe, jeg beregner den til et sted mellom 27 og 28 kilometere. Fjellområdet jeg for det meste skal gå i er derimot stadig for det alt vesentlige det fine lette terrenget. Først av alt ble det en morgenvask i fjellbekken. Full kroppsvask denne gangen, fra hode til tær, kalt men skjønt.
+Fra Sæterfjellet og ned til Tverrelvnes går det radig. For det meste slake unnabakker på en god sti, noe på vei og ikke for bratt opp til gården Tverrelvnes.</description>
+    </item>
+    
+    <item>
+      <title>Rotvatnet - Sæterfjellet</title>
+      <link>http://falleri.no/posts/rotvatnet-s%C3%A6terfjellet/</link>
+      <pubDate>Sat, 12 Jul 2008 15:36:40 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/rotvatnet-s%C3%A6terfjellet/</guid>
+      <description>Tidlig oppe til en nydelig dag. Jeg har til hensikt å ta igjen noe av den distansen jeg ligge bak etter min opprinnelige plan. Men helt fram til Tverrelvnes og Gunder Gardsmark kan bli litt i lengste laget denne dagen.
+Fjellene innover fra Rotvatnet og fram til Midtfjellet er lettgåtte. Det som tar noe tid er en fantastisk rik blomsterflora innover fjellet. Stadig må kameraet fram og det blir mange fine bilder.</description>
+    </item>
+    
+    <item>
+      <title>Golvertun/Harvasstua - Rotvatnet</title>
+      <link>http://falleri.no/posts/golvertunharvasstua-rotvatnet/</link>
+      <pubDate>Fri, 11 Jul 2008 15:13:22 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/golvertunharvasstua-rotvatnet/</guid>
+      <description>Tor B. Kjører meg opp til Harvasstua og jeg er i gang igjen. En lat dag på Golvertun har gjort underverker med både kropp og sjel.
+Nå er jeg i starten på den merkede delen av Nordlandsruta og kommer stort sett til å følge den videre. Merket rute eller ikke, kart og kompass er allikevel et must. Kartet henger alltid på brystet og kompasset med utstukket kurs klart i en sikret lomme.</description>
+    </item>
+    
+    <item>
+      <title>Golvertun</title>
+      <link>http://falleri.no/posts/golvertun/</link>
+      <pubDate>Thu, 10 Jul 2008 13:46:38 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/golvertun/</guid>
+      <description>For oss to fjellfanter; Tor B og Gunnar (Olav Erik er dratt hjem) er dette en god dag på hytta. Det er tross alt behagelig å spise ved et bord, få servert veltillaget mat og riktig samle krefter. Hytta til Tone og Tor B ligger vakkert til på en høy elvebredd på østsiden av Susna rett overfor to sideelver. Begge to, lille Susna og Klijviejokha, drenerer ut i Susna rett ovenfor.</description>
+    </item>
+    
+    <item>
+      <title>Ránoenjokhe - Golvertun/Susendal</title>
+      <link>http://falleri.no/posts/ranoenjokhe-golvertunsusendal/</link>
+      <pubDate>Wed, 09 Jul 2008 13:42:00 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/ranoenjokhe-golvertunsusendal/</guid>
+      <description>Fri for mat (nesten) må vi bare si farvell til Børgefjell for denne gang. Turen ned mot Tiplingan går forbi masser av små tjønner med vakende ørret i solskinnet. Tiplingelva krysses over hengebrua midt mellom de to Tiplingvatna. Najax er virkelig flott å se på når han som den første tar seg over en svingende hengebru med manglende sidestabilistor og et godt åpent brudekke og bordene på langs. Vel over brua går vi innom hytta til gamle optiker Stensland.</description>
+    </item>
+    
+    <item>
+      <title>Steinvatnet - Rátnoenjokhe</title>
+      <link>http://falleri.no/posts/steinvatnet-ratnoenjokhe/</link>
+      <pubDate>Tue, 08 Jul 2008 13:36:12 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/steinvatnet-ratnoenjokhe/</guid>
+      <description>En litt lengre etappe enn gårdagens, men også denne dagen skal nytes. Været er skjønt og omgivelsene er bare nydelige. Snedekte fjelltopper og fjellsider, innimellom irrgrønne lier, noen isdekte vann, noen blinkende vann, strømmende elver, strie elver, stilleflytende elver, fjellbekker, kalt og godt drikkevann, lemen, ryper, fjelljoer, bare herligheter. Blomster og urter, kartlav og rustlav, vier og kjær, myr, tørrrabber og dryasmark. Alt er fryd, stillhet og spektakulære senarier. Midt opp i det hele oss tre små mennesker med en hund.</description>
+    </item>
+    
+    <item>
+      <title>Viermavannet - Steinvatnet</title>
+      <link>http://falleri.no/posts/viermavannet-steinvatnet/</link>
+      <pubDate>Mon, 07 Jul 2008 13:30:12 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/viermavannet-steinvatnet/</guid>
+      <description>Tar du en titt på kartet ser du at det ikke var akkurat det lange strekket vi tilbakela denne dagen. Men god tid er klart en del av hensikten med turen gjennom Børgefjellet. Min &amp;ldquo;Norge på langs-tur&amp;rdquo; skal ikke være et stress. Vi skal ta det rolig og riktig ha noen gode og late dager inne i fjellet.
+Her oppe ved Steinvatnet kommer vi opp i høyder på over 1000 moh.</description>
+    </item>
+    
+    <item>
+      <title>Viermahytta - Viermavatnet</title>
+      <link>http://falleri.no/posts/viermahytta-viermavatnet/</link>
+      <pubDate>Sun, 06 Jul 2008 13:19:29 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/viermahytta-viermavatnet/</guid>
+      <description>Vi starter alle fire litt ut på dagen for å gå opp til Viermavatnet. En middels lang tur, men Viermadalen kan være dryg nok. Litt nord om Sapmanselva tar vi en lengre rast med bål og kaffe. Sola varmer, men vi har en lett bnris fra nordøst. Brisen gjør værlaget meget behagelig. Med ly for vinden når vi raster og et kjølig drag i lufta når vi går, rett og slett det perfekte turværet.</description>
+    </item>
+    
+    <item>
+      <title>Storvika/Namsvatnet - Viermahytta</title>
+      <link>http://falleri.no/posts/storvikanamsvatnet-viermahytta/</link>
+      <pubDate>Sat, 05 Jul 2008 13:12:59 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/storvikanamsvatnet-viermahytta/</guid>
+      <description>Det er fortsatt varmet, men heldigvis ikke så ekstremt varmt som i går. Turen fram til Viermahytta er bare på 12-13 km. Der på hytta skal jeg møte mine turkamerater Tor B. og Olav Erik for den videre ferd inn i Børgefjellet. Traseen fra Storvika er udramatisk. Jeg skjærer av fra vika og opp i høyden. Går forbi vest om Lomtjønnin og ned mot brua over Orvasselva. Det er ingen stier i dette området og jeg bommer med en liten kilometer.</description>
+    </item>
+    
+    <item>
+      <title>Røyrvik  - Storvika/Namsvatnet</title>
+      <link>http://falleri.no/posts/r%C3%B8yrvik-storvikanamsvatnet/</link>
+      <pubDate>Fri, 04 Jul 2008 13:06:04 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/r%C3%B8yrvik-storvikanamsvatnet/</guid>
+      <description>Denne dagen er det klart, solrikt og varmt. For hunden Najax skyld ordner jeg bilskyss fraLimingen Gjestegård til Fredheim ved Namsvatnet. Najax må få slippe asfalten på en glohet dag. Strekningen på 14 km kommer jeg til å gå senere, mest sannsynlig i august til neste år.
+Etter råd fra en lokalkjent har jeg lagt om ruta noe. Turen videre går nå på en tømmervei. Jeg tar av fra denne litt lengere framme og går rabbene mot Gollomselva.</description>
+    </item>
+    
+    <item>
+      <title>Limingen Gjestegård</title>
+      <link>http://falleri.no/posts/limingen-gjestegard/</link>
+      <pubDate>Thu, 03 Jul 2008 10:12:31 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/limingen-gjestegard/</guid>
+      <description>Dagen i dag er brukt til god mat, oppdatering av bloggen og ikke minst en konsert på kvelden med den kjente svenske musikeren Kent Nilsson (piano) sammen med Lasse Hörnfäldt (saxofon) og den lokale sangeren Toril Gustavsen (sang, gitar og dikt). En fantastisk opplevelse å ta med seg inn i Børgefjell.
+Vertskapet Borgny &amp;amp; Fritz kan jeg ikke berømme nok; blide og hyggelige. De tar godt vare både på gjest og hund.</description>
+    </item>
+    
+    <item>
+      <title>Solberg - Røyrvik</title>
+      <link>http://falleri.no/posts/solberg-r%C3%B8yrvik/</link>
+      <pubDate>Wed, 02 Jul 2008 10:10:09 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/solberg-r%C3%B8yrvik/</guid>
+      <description>Nå tar jeg fatt på den siste etappen fram til Røyrvik og Limingen Gjestegård; 34 km gjenstår på vei og asfalt. Etter gårdagens avtale med Roger Granli skulle jeg komme til hans gård, Limingen Østre rundt kl. 1200. Der traff jeg i tillegg hans kone Siri og en av sønnene. Heller ikke her ble det bare til et kort besøk. Der ble det lunch med fire egg og masser av bacon.</description>
+    </item>
+    
+    <item>
+      <title>Kvellibua - Solberg</title>
+      <link>http://falleri.no/posts/kvellibua-solberg/</link>
+      <pubDate>Tue, 01 Jul 2008 10:08:45 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/kvellibua-solberg/</guid>
+      <description>Rundt kl. 1500 hentet Roger Granli hunden for å kjøre han til Røyrvik. Samtidig ble jeg invitert til å besøke gården hans ved Limingen neste dag. Limingen Gjestegård hadde sagt ja til å ta i mot Najax og stelle godt med han til jeg kom. Jeg startet opp samme ettermiddagen og gikk bakkene opp til Sverige. Går noen kilometer på svensk side før jeg kommer ned til Tunsjø Senter. Der er jeg i halvsjutida og skal ta en liten pause.</description>
+    </item>
+    
+    <item>
+      <title>Kvelibua</title>
+      <link>http://falleri.no/posts/kvelibua/</link>
+      <pubDate>Tue, 01 Jul 2008 09:54:56 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/kvelibua/</guid>
+      <description>Neste dag ordner alt seg. En Roger Granli med gårdsbruk ved Limingen er på vei til sin regnskapsfører i samme huset som Kvelibua. Han kan ta Najax med til Røyrvik. I mellomtiden mens jeg venter kommer det mye hyggelige folk innom butikken. Det blir pratet mye om løst og fast. Litt om mitt prosjekt og jeg får vite en hel del om Kvelia. Ikke minst det pratet mye om bjørn.</description>
+    </item>
+    
+    <item>
+      <title>Nordli - Kvelibua</title>
+      <link>http://falleri.no/posts/nordli-kvelibua/</link>
+      <pubDate>Mon, 30 Jun 2008 09:51:55 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/nordli-kvelibua/</guid>
+      <description>I dag ble det en kort etappe. Derimot traff jeg på mange hyggelige folk. Det som skjer er at Najax må ha fått i seg noe nede på Nordli. I hvert fall startet både han og jeg friskt iveg. Men bare etter to til tre kilometer etter veikrysset mot Røyrvik ble hunden slappere og slappere. Jeg måtte bare sette meg ned med Najax. Heldigvis får jeg stoppet en bil med to hyggelige damer, Ann Katrin Bergli og Ingrid Bergli.</description>
+    </item>
+    
+    <item>
+      <title>Skardstjørnin - Nordli</title>
+      <link>http://falleri.no/posts/skardstj%C3%B8rnin-nordli/</link>
+      <pubDate>Sun, 29 Jun 2008 20:50:29 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/skardstj%C3%B8rnin-nordli/</guid>
+      <description>Jeg teltet ganske nær Skardstjørnin og avstanden fra min teltplass er omtrent lik som fra tjønnene. Totalt beregnet til ca. 22 km hvorav 13 km på vei. Jeg tok kompasskurs mot Bustadlia og la i vei. Deretter var det strake veien til Sørnes, en nedlagt fjellgård. Derfra gikk jeg veien langs Laksjøen til Nordli.
+Underveis passerte jeg et meget stort område inngjerdet med elektriske gjerder. Jeg mener det var hele fire strenger i høyden opp til sikkert en god meter.</description>
+    </item>
+    
+    <item>
+      <title>Bielnienjaevrie - Skardstjørnin</title>
+      <link>http://falleri.no/posts/bielnienjaevrie-skardstj%C3%B8rnin/</link>
+      <pubDate>Sat, 28 Jun 2008 16:02:48 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/bielnienjaevrie-skardstj%C3%B8rnin/</guid>
+      <description>Etter to gode dager fortsetter ferden. Jeg går nå innover mot Urddalsfjellet. På veien dit ble jeg tidliger tilrådt å krysse elva fra Luruvatnet helt oppe ved utløpet. I tilfelle mye avrenning ville det være best å krysse elva fra vannet der. Noe stigning oppover mot Urddalsfjellet. Det ligger som en fjellrygg jeg må gå over. Videre passerer jeg Urddalen helt oppe i fjellet. Det jeg kan se av dalen nedover tyder på at den er meget frodig og sikkert med gode beiter for elgen.</description>
+    </item>
+    
+    <item>
+      <title>Bielnienjaevrie</title>
+      <link>http://falleri.no/posts/bielnienjaevrie/</link>
+      <pubDate>Thu, 26 Jun 2008 15:55:55 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/bielnienjaevrie/</guid>
+      <description>Her i dag er jeg kommet fram til Bielnienjaevrie i solskinn og har det helt deilig. Telter og belager meg på et ekstra døgn her inne ved vannet. Klarværet sist natt kom med frost og på morningen var teltet kvit-rimet. Mosen var frossen og hard å gå på med bare bein. Is hadde også lagt seg på mindre pytter.
+Formiddagen tilbringes horisontalt bare avslappende i solhellingen. Litt utpå ettermiddagen tar jeg stanga fatt og prøver fiskelykken.</description>
+    </item>
+    
+    <item>
+      <title>Holderen - Gjefsjøen fjellgård</title>
+      <link>http://falleri.no/posts/holderen-gjefsj%C3%B8en-fjellgard/</link>
+      <pubDate>Wed, 25 Jun 2008 15:51:46 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/holderen-gjefsj%C3%B8en-fjellgard/</guid>
+      <description>Stort sett samme våte værlaget og jeg tok derfor kun dette strekket til Gjefsjøen. Knappe fire timer fra hus til hus, men også i dag gjennom søkkvåte myrer. Men heldigvis, i morgen går jeg inn i snaufjellet og jeg håper inderlig på omslag i været. Litt sol og varme fram under Gauptjørnaksla og inn mot Urdalsfjellet og Hykkelfjellet. Uansett blir det telting i fjellheimen og tjangs til å få brukt fiskestanga.</description>
+    </item>
+    
+    <item>
+      <title>Gaundalen - Holderen</title>
+      <link>http://falleri.no/posts/gaundalen-holderen/</link>
+      <pubDate>Tue, 24 Jun 2008 15:41:59 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/gaundalen-holderen/</guid>
+      <description>Dagen i dag starter med regn og storm fra nordvest og kun 5°C. Det ble å ta det med ro innomhus og avvente endring i været. Litt over halv tolv la jeg i vei og gikk over til Holderen på fem timer. Jeg fikk sludd oppe i fjellet på 800 moh og gikk i søkkvåte sugende trøndermyrer. Det virker som om sommeren fra i fjor i Sør-Norge skal forfølge meg, kaldt og vått.</description>
+    </item>
+    
+    <item>
+      <title>Lakavatnet - Gaundalen fjellgård</title>
+      <link>http://falleri.no/posts/lakavatnet-gaundalen-fjellgard/</link>
+      <pubDate>Mon, 23 Jun 2008 12:18:29 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/lakavatnet-gaundalen-fjellgard/</guid>
+      <description>Jeg hadde opprinnelig planlagt å bli et ekstra døgn ved Lakavatnet, men tidlig i femtida om morgenen kom det kraftig søraustlig vind og regn. Jeg ble i teltet og ventet han av. Ved ni-tida ble været noe bedre. Jeg kokte min havregrøt, pakket og brøt leiren med retning for Gaundalen fjellgård. Etter ennå mere våte myrer, kryssing av elver og ennå mere regn var jeg framme ved gården i sekstida, søkke blaut.</description>
+    </item>
+    
+    <item>
+      <title>Klumptjønnin - Lakavatnet</title>
+      <link>http://falleri.no/posts/klumptj%C3%B8nnin-lakavatnet/</link>
+      <pubDate>Sun, 22 Jun 2008 12:13:55 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/klumptj%C3%B8nnin-lakavatnet/</guid>
+      <description>Trøndelag fornekter seg ikke, det er mye myr og en del kjerr hele veien. I tillegg er myrene våte etter mye regn. Bortsett fra dette er terrenget slakt og kunne vært lettgått hadde det ikke vært for lange strekninger med våt myr. Det er ingen store høydeforskjeller av betydning. Jeg har en blanding av sol og regn underveis. De siste par timene før Lakavatnet skinner solen og jeg kommer tørr og fin fram.</description>
+    </item>
+    
+    <item>
+      <title>Ankomst Veressjøen</title>
+      <link>http://falleri.no/posts/ankomst-veressj%C3%B8en/</link>
+      <pubDate>Sat, 21 Jun 2008 12:09:19 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/ankomst-veressj%C3%B8en/</guid>
+      <description>I dag ble jeg kjørt til Vera og Sveet. Var som snarest og hilste på fru Olsen og de øvrige på Sveet. Det var hos dem jeg avsluttet i fjor. Rundt kl. 1630 dro min sjåfør Jan-Erik Vargdal hjemover. Jeg hadde glemt mine vandrestaver hjemme, men du snakker om hell: Her ved ungdomshuset hilste jeg på et eldre ektepar. Tro det eller ei, kona kommer med sine egne staver. Versågod, kan disse brukes får du dem av meg.</description>
+    </item>
+    
+    <item>
+      <title>Det ble en liten forsinkelse</title>
+      <link>http://falleri.no/posts/det-ble-en-liten-forsinkelse/</link>
+      <pubDate>Fri, 20 Jun 2008 19:32:16 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/det-ble-en-liten-forsinkelse/</guid>
+      <description>Bikkja satte til livs to halve plastposer og mistet all matlyst. Plasten måtte ut før vi kunne starte. Torsdag og fredag var alt OK og i morgen, lørdag har jeg sjåfør som kjører meg til Sveet. Endelig søndag 22. juni trasker jeg i vei.
+Min aller beste takk til Jan-Erik Vargdal som på kort varsel tilbød seg å kjøre ned og ta bilen hjem igjen.</description>
+    </item>
+    
+    <item>
+      <title>Dette har jeg på</title>
+      <link>http://falleri.no/pages/dette-har-jeg-pa/</link>
+      <pubDate>Sat, 14 Jun 2008 16:02:04 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/dette-har-jeg-pa/</guid>
+      <description>Jeg har gjort svært små endringer i påkledningen fra i fjor til i år. Tynn ullhue ble tidlig i fjor byttet ut med en caps. Ulvangs tynne ullsokker erstatter tynne ullsokker kjøpt hos Dressmann.
+Caps - En god skjerm beskytter nakken mot sola fra syd Montana vindtett lett anojakke Klättermusen Mithril bukse Janus underskjorte i ull Devolds ulltruse/shorts Medima thermo knevarmere Ullvang tynne ullsokker Falke TK4 sokker Jörnkängan fjellsko Krokbelte m/line for hunden Seal Line vanntett kartmappe Komperdell teleskop vandrestaver</description>
+    </item>
+    
+    <item>
+      <title>Klær i sekken</title>
+      <link>http://falleri.no/pages/kl%C3%A6r-i-sekken/</link>
+      <pubDate>Sat, 14 Jun 2008 15:10:36 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/kl%C3%A6r-i-sekken/</guid>
+      <description>Noen små endringer er gjort siden i fjor. Vektmessig fører endringen til ca. 100 g mindre å bære.
+1 stk Klättermusen Liv dunjakke - 340 g 2 ” Janus underskjorter i ull - 540 g 1 ” Devolds ulltruse/shorts - 75 g 1 ” Devolds lange underbukser i ull - 180 g 1 ” Janus balaclava i 50 % ull - 70 g 1 ” Janus tynn ullhals - 50 g 2 par Falke TK4 sokker - 190 g 2 &amp;ldquo; Ulvang tynne ullsokker - 80 g 1 ” vanter i ull - 100 g 1 ” Bergans vindvotter i Dermizax - 80 g 1 ” Bergans gamasjer i Dermizax - 330 g 2 stk spennremmer, 50 cm - 40 g  Samlet vekt: 2,075 kg</description>
+    </item>
+    
+    <item>
+      <title>Sekk og utstyr</title>
+      <link>http://falleri.no/pages/sekk-og-utstyr/</link>
+      <pubDate>Sat, 14 Jun 2008 14:50:02 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/sekk-og-utstyr/</guid>
+      <description>Også for utstyret har jeg endret litt fra i fjor, men i det alt vesentlige fungerte det jeg hadde lagt opp til tilfredsstillende.
+1 stk Klättermusen Mjölner ryggsekk (60 l) - 2500 g 2 ” 7 liters sidelommer til sekken - 250 g 1 ” 60 liters innerpose til sekken - 200 g 1 &amp;ldquo; vannflaske m/slange - 140 g - Fylles med vel 1 liter vann 1 stk Hilleberg Nallo 2 GT telt - 2640 g 1 &amp;ldquo; lett presenning til bunn i fortelt - 250 g - Brukes også som regnkep 1 ” skum liggeunderlag - 450 g 1 ” Ajungilac Taiga dun sovepose - 1060 g 1 ” Petzl Tikka plus hodelykt - 80 g 3 &amp;ldquo; 13 l lette pakkposer, Sea to Summit - 140 g 1 ” Fiskars kniv, liten for alle behov - 70 g 1 ” skje, kniv og gaffel og - 40 g 1 ” liten tresleiv - 15 g 2 ” brettbare plast kokser - 60 g 2 &amp;ldquo; kjeler 1,0 + 1,5 l, smale og høye - 380 g 1 ” Primus multibrenner m/tilbehør og bensin - 1170 g 1 ” ekstra brennstoffbh.</description>
+    </item>
+    
+    <item>
+      <title>For hygiene, til medisinsk og personslig bruk</title>
+      <link>http://falleri.no/pages/for-hygiene-til-medisinsk-og-personslig-bruk/</link>
+      <pubDate>Sun, 08 Jun 2008 14:33:42 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/for-hygiene-til-medisinsk-og-personslig-bruk/</guid>
+      <description>Kontaktlinser Lesebriller i etui Progresive briller i etui Liten saks Tannbørste Noen Jordans tannstikker Tannkrem, 1&amp;frasl;2 tube 1&amp;frasl;2 stk Sunlight sepe Nødv. mengde foreskrevne medisiner Prolip for såre lepper Compeed krem for tørr og sprukken hud Compeed gnagsårplaster Solkrem Solbriller Myggolje Sportstape Tynn hudtape Vanlig tekstilplaster Enkeltmannspakke Støttebandasje Liten grytesvamp ½ rull tørkepapir</description>
+    </item>
+    
+    <item>
+      <title>Sikkerhets- og reparasjonsutstyr</title>
+      <link>http://falleri.no/pages/sikkerhets-og-reparasjonsutstyr/</link>
+      <pubDate>Sun, 08 Jun 2008 14:21:52 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/sikkerhets-og-reparasjonsutstyr/</guid>
+      <description>Fløyte Petzl Signal, rød diodelykt, 22 g Reflexvest Comet nødpenn med 3 stk. farge- og smellpatroner Aluminiumsbelagt plast redningspose Fyrstikker og ripeflate i filmboks Skjøtehylse og reserveledd til teltstang - Inkludert i teltet Lapper og lim for ev. rep. av rifter i telt og vanntette poser Elastisk elektrikertape Ca. 5 m sterk og tynn snor Reserve gamasjestrikker Noen store sikkerhetsnåler Par-tre synåler Litt tynn og sterk sytråd</description>
+    </item>
+    
+    <item>
+      <title>Til Najax</title>
+      <link>http://falleri.no/pages/til-najax/</link>
+      <pubDate>Sun, 08 Jun 2008 14:12:25 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/til-najax/</guid>
+      <description>1 ” Nord-Pro hundekløv, 1360 g 1 ” Kennel brystsele til hund, 120 g 1 ” brettbar hundeskål i stoff, 90 g 2 &amp;ldquo; 13 l tykke pakkposer, Sea to Summit, 175 g Exspot mot flått- og myggplager Rimadyl smertestillende tabletter Dihydrostreptomysin tabletter ved diare Prednisolon tabletter ved huggormbit - Til og med Umbukta Fyra Ess potesalve
+Vekt i kløven Alt etter dagsetappenes lengde vil Najax bære mellom 11 og 13 kg.</description>
+    </item>
+    
+    <item>
+      <title>Proviant</title>
+      <link>http://falleri.no/pages/proviant/</link>
+      <pubDate>Sun, 08 Jun 2008 13:53:27 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/proviant/</guid>
+      <description>Proviant for 10 dager - Grunnlag for beregning Denne proviantlisten brukes for hele turen og danne grunnlaget for hver depoteske for de enkelte etapper, se Ruta. Sammensetningen gir en kaloritilførsel i gjennomsnitt på 3087 kcal./dag. - Hundeforet gir Najax en kaloritilførsel i gjennomsnitt på 2725 kcal./dag. Fisk o.l. underveis blir et rent tilskudd til kosten.
+10 stk frokoster bestående av:  8x200 g havregryn 8x40 g tørrmelk 8x25 g rosiner 2 poser kanel 15 g 16x12 g smør 8x25 g sukker 8x5 g salt</description>
+    </item>
+    
+    <item>
+      <title>Proviant og utstyr</title>
+      <link>http://falleri.no/pages/proviant-og-utstyr/</link>
+      <pubDate>Sun, 08 Jun 2008 13:13:43 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/proviant-og-utstyr/</guid>
+      <description> Proviant Dette har jeg på Klær i sekken eller i kløven Sekk og utstyr For hygiene, til medisinisk eller personlig bruk Sikkerhets- og reparasjonsutstyr Til Najax  </description>
+    </item>
+    
+    <item>
+      <title>Etappe 16</title>
+      <link>http://falleri.no/pages/etappe-16/</link>
+      <pubDate>Wed, 04 Jun 2008 17:07:51 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-16/</guid>
+      <description>Da gjenstår den siste etappen til Nordkapp, for det meste på vei og gjennom en undersjøisk tunnel.
+Skaidi – Nordkapp 20&amp;frasl;9 – 16&amp;frasl;9 Lengde: 140 km + 7,55 % = 151 km/25 = 6 dager
+Depot  Depot med proviant og utstyr for etappen sendes etter avtale med: Skaidi Hotell, Skaidi, 9620 Kvalsund, tlf. 78 41 55 00.
+Kart for etappen  1935 I Repparfjorden 2036 III Kokelv 2036 I Magerøysundet 2037 II Nordkapp Veikart Norge 1:1 000 000</description>
+    </item>
+    
+    <item>
+      <title>Etappe 15</title>
+      <link>http://falleri.no/pages/etappe-15/</link>
+      <pubDate>Wed, 04 Jun 2008 16:51:34 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-15/</guid>
+      <description>Noen mil gjennom Finnland og deretter Finnmarksvidda med middels lange dagsmarsjer.
+Kilpisjävre – Máze – Skaidi 25&amp;frasl;8 – 9&amp;frasl;9
+Lengde: 268 km + 15 % = 308 km/20 = 15+2 dager
+Kilpisjävre - Masi 156 km (136 km + 15%) Masi - Skaidi 152 km (132 km + 15%)
+Depot med proviant og utstyr for deletappen Kilpisjävre - Máze sendes etter avtale: Kilpisjävre Hotell Mellomdepot i Masi: Máze Post i Butikk, Joker Masi, 9525 Máze, tlf.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 14</title>
+      <link>http://falleri.no/pages/etappe-14/</link>
+      <pubDate>Wed, 04 Jun 2008 15:18:10 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-14/</guid>
+      <description>Noen få mil igjen og jeg er tilbake i Norge. Det blir indre Troms på vei mot Kilpisjävre og Finland.
+Abisko – Kilpisjävre 11&amp;frasl;8 – 21-23&amp;frasl;8 Lengde: 207 km + 15 % = 238 km/24 = 10+1+2
+Fjellet i det nordlige Sverige har vært en ny opplevelse for meg. Det samme vil det være med turen inn i indre Troms og videre til Treriksrøysa og Finland med Kilpisjävre.
+Depot  Depot med proviant og utstyr for etappen sendes etter avtale: Abisko Lapporten, 98107 Abisko, Sverige, Tlf.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 13b</title>
+      <link>http://falleri.no/pages/etappe-13b/</link>
+      <pubDate>Sun, 01 Jun 2008 11:50:20 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-13b/</guid>
+      <description>&amp;ldquo;Nå går turen inn i Sverige. Med blant annet Padjelanta-, Stora Sjøfallets- og Abisko nasjonalparker&amp;rdquo;. – Slik ble det ikke. – Svenske bestemmelser for hund i Padjelanta nasjonalpark ødela hele opplegget. Det er absolutt forbudt med kløvhund i nasjonalparken. Ny etappe blir:
+E6 fra Stødi til Kobbvannet – Abisko 25&amp;frasl;7 – 10&amp;frasl;8 Lengde: 364 km + 10 % = 400 km/26 = 15+2
+Min henvendelse til Länsstyrelsen i Norrbotn ga følgende svar: &amp;ldquo;Tillstånd att medföra hund inom nationalpark Länsstyrelsen är mycket restriktiv att medge dispens att medföra hund i nationalparkerna under barmarkstid.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 13</title>
+      <link>http://falleri.no/pages/etappe-13/</link>
+      <pubDate>Sun, 01 Jun 2008 11:35:45 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-13/</guid>
+      <description>Nå går turen inn i Sverige. Med blant annet Padjelanta-, Stora Sjøfallets- og Abisko nasjonalparker.
+Sulitjelma – Abisko 31&amp;frasl;7 – 14&amp;frasl;8 Lengde: 216 km + 10 % = 238 km/20 = 12+2
+Nok en lang etappe. Denne gangen uten mellomdepot, men med noen betjente svenske tutisthytter. Den første av disse er Akkastugorna, 95 km fra Sulitjelma. Selv om etappen er lang, vil neppe proviant og kilo på ryggen være det store problemet.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 12</title>
+      <link>http://falleri.no/pages/etappe-12/</link>
+      <pubDate>Sun, 01 Jun 2008 11:15:40 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-12/</guid>
+      <description>Nå er jeg på hjemlige og kjente trakter. Kun på den siste delen fram til Sulitjelma går jeg igjen i ukjent terreng.
+Umbukta – Sulitjelma 19&amp;frasl;7 – 29&amp;frasl;7 Lengde: 170 km + 13 % = 192 km/21 = 9+2
+Jeg er inne i kjente områder med mange gode fiskevann og elver. Både her og videre nordover er det gode muligheter for ekstra kosttilskudd av ørret og annen ferskvannsfisk.
+Depot  Depot med proviant og utstyr for etappen henter jeg selv hjemme i Mo i Rana.</description>
+    </item>
+    
+    <item>
+      <title>Nå er det like før jeg starter opp igjen</title>
+      <link>http://falleri.no/posts/na-er-det-like-f%C3%B8r-jeg-starter-opp-igjen/</link>
+      <pubDate>Sun, 01 Jun 2008 09:50:29 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/na-er-det-like-f%C3%B8r-jeg-starter-opp-igjen/</guid>
+      <description>I fjor kom jeg fram til Sveet den 1. september. Det var masse regn og den første snøen var kommet i fjellet. Jeg valgte derfor å bryte, for å starte opp igjen i 2008. Min tur skal tross alt ikke være et slit, men til ren nytelse og fornøyelse. Den 19. juni har jeg fått på meg fjellskoene, sekken er pakket, min Golden retriever, Najax er med og vi starter opp igjen fra Sveet.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 9b</title>
+      <link>http://falleri.no/pages/etappe-9b/</link>
+      <pubDate>Thu, 29 May 2008 14:24:49 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-9b/</guid>
+      <description>Etter vinteren hjemme i Mo i Rana skal det bli godt å ta fatt på resten av turen til Nordkapp
+Sveet – Sandv./Nordli 20&amp;frasl;6 – 30&amp;frasl;6 Lengde: 116 km + 15 % = 133 km/17 = 8 + 1dager
+Etappen starter fra Sveet hvor jeg brøt av turen i fjor. I disse grenseområdene er det mye snaufjell, men også rikt bevokste daler, elver og fiskevann. I det hele en meget vekslende natur.</description>
+    </item>
+    
+    <item>
+      <title>Innstua - Sveet/Vera</title>
+      <link>http://falleri.no/posts/innstua-sveetvera/</link>
+      <pubDate>Sat, 01 Sep 2007 13:13:24 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/innstua-sveetvera/</guid>
+      <description>Dagen er skyet med litt sol og helt uten nedbør. Det er bare å gjøre seg klar for turen over til Vera og Sveet. Jeg har sjekket på telefon og min depoteske er kommet, men gjestgiveriet er stengt for godt. Derimot er det alltids en hytte å få leid. Etter alt regnet, sne i fjellene og tre til treogenhalv uke forsinket har jeg bestemt meg for å bryte for i år på Sveet.</description>
+    </item>
+    
+    <item>
+      <title>Ferslia - Innstua</title>
+      <link>http://falleri.no/posts/ferslia-innstua/</link>
+      <pubDate>Wed, 29 Aug 2007 10:47:03 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/ferslia-innstua/</guid>
+      <description>De 27 kilometrene over til Innstua ble en våt og tung tur. Hele natten hadde det regnet og jeg bokstavelig talt vasset fra Feslia og helt fram. Bare deler av traseen gikk på rabber, berg og vei. Alt det øvrige var for det meste &amp;ldquo;flytende&amp;rdquo; og må nærmest lignes med et våtmarksområde. I tillegg ble det sludd og kraftige snebyger oppunder Merraskardfjellet. En tøff, men egentlig fasinerende etappe.
+Rett øst om Sulsjøan går jeg på det første blå &amp;ldquo;Karolineremerket&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Angeltjønnhytta - Ferslia</title>
+      <link>http://falleri.no/posts/angeltj%C3%B8nnhytta-ferslia/</link>
+      <pubDate>Mon, 27 Aug 2007 23:50:53 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/angeltj%C3%B8nnhytta-ferslia/</guid>
+      <description>Fra i går kveld, natten gjennom og utover formiddagen i dag er det kun måte å snakke om været på og det må sies på nordnorsk: &amp;ldquo;Det er et ailerhelvetes vær&amp;rdquo;. Også uttrykket store nedbørsmengder er her på sin plass.
+Uansett, jeg skal fram til NTTs hytte Ferslia i dag. Da klokka var tolv fikk været være vær og jeg la i veg over fjellet. I dag fløt det, det blåste og det var kaldt.</description>
+    </item>
+    
+    <item>
+      <title>Teveltunet - Angeltjønnhytta</title>
+      <link>http://falleri.no/posts/teveltunet-angeltj%C3%B8nnhytta/</link>
+      <pubDate>Sun, 26 Aug 2007 09:26:11 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/teveltunet-angeltj%C3%B8nnhytta/</guid>
+      <description>Gårdagen var en heller ufyselig dag med kuling fra nordvest og store nedbørsmengder. Jeg valgte derfor å ta en hviledag på Tevelltunet og avvente og håpe på bedre vær til søndagen. Utover lørdagen bare økte vinden på i styrke og regnet fortsatte å øse ned. Godt å sitte tørt og varmt i hus.
+Dagen i dag hadde både vinden løyet og regnet gitt seg. Marka og spesielt alle myrene var gjennomtrukket av vann og det ble mye klaskede gange gjennom disse.</description>
+    </item>
+    
+    <item>
+      <title>Bobbeltjønn - Teveltunet</title>
+      <link>http://falleri.no/posts/bobbeltj%C3%B8nn-teveltunet/</link>
+      <pubDate>Fri, 24 Aug 2007 11:49:28 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/bobbeltj%C3%B8nn-teveltunet/</guid>
+      <description>Starten ble i regn og ruskevær, men etter en par timer ga regnet seg og videre hadde jeg en fin gåtemperatur og stort sett oppholdsvær. Greit terreng fram til Kluksdal. Også her med masser av fine molter og blåbær. Det var ikke å komme fra. Sekken måtte i ny og ne av ryggen og bær plukkes og spises på stedet. Vel framme ved øverste gården i Kluksdal er det ordnet til med bord og grue ved bredden av Klukselva.</description>
+    </item>
+    
+    <item>
+      <title>Grensevarde 156 - Telt ved Bobbeltjønn</title>
+      <link>http://falleri.no/posts/grensevarde-156-telt-ved-bobbeltj%C3%B8nn/</link>
+      <pubDate>Thu, 23 Aug 2007 11:45:16 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/grensevarde-156-telt-ved-bobbeltj%C3%B8nn/</guid>
+      <description>Jeg har nok gått litt surr i dagene. To plasser på samme dag går nok ikke, men nå er jeg ajour.
+Alt tegner til å bli en strålende dag og turen til Bobbeltjønn stikkes i det alt vesentlige ut på svensk side langs etter et reingjerde. Dette følger grensen en stor del av min rute. Innover langs reingjerdet var det tildels god sti, både etter vedlikehold og tråkk etter rein. Ved Sødra Enbågen treffer jeg på to tyske turister, de eneste menneskene på denne del av turen.</description>
+    </item>
+    
+    <item>
+      <title>Nedalshytta - Grensevarde 156</title>
+      <link>http://falleri.no/posts/nedalshytta-grensevarde-156/</link>
+      <pubDate>Thu, 23 Aug 2007 10:50:22 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/nedalshytta-grensevarde-156/</guid>
+      <description>I dag er jeg klar og ferdig pakket allerede før klokken 1000, vel forberedt for den lange etappen til Storerikvollen. Kun en siste kopp kaffe på trammen før avgang. Kokka kommer ut og spør om jeg vil ha en nystekt vaffel til kaffen. Selvsagt sier jeg ja til tilbudet, det ville bare være dumt å si nei. Hva skjer, jo hele personalet kommer ut for å nyte en varm og solrik formiddag.</description>
+    </item>
+    
+    <item>
+      <title>Væktarhaugen - Nedalshytta</title>
+      <link>http://falleri.no/posts/v%C3%A6ktarhaugen-nedalshytta/</link>
+      <pubDate>Wed, 22 Aug 2007 11:54:02 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/v%C3%A6ktarhaugen-nedalshytta/</guid>
+      <description>Bloggen ble i dag oppdatert for alle dagene etter Røros. Uvergelig tar dette sin tid og det ble en ekstra sen start på turen til Nedalshytta. Så vidt sent at jeg regnet med små muligheter for middag og varm mat på den betjente hytta. Turiststien over til Nedalshytta er mest som en transportetappe å regne. Et greit åpent terreng med en del bjørkeskog og myrer, men for det meste godt fjellterreng.</description>
+    </item>
+    
+    <item>
+      <title>Vinilla - Telt ved Væktarhaugen</title>
+      <link>http://falleri.no/posts/vinilla-telt-ved-vektarhaugen/</link>
+      <pubDate>Tue, 21 Aug 2007 12:33:48 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/vinilla-telt-ved-vektarhaugen/</guid>
+      <description>Det ble nok en ekstra dag på Vinilla Turisthytte. Ingen grunn til å haste fra en slik trivelig vertinne og et slikt sjelfullt sted. En passe sen og lang frokost, en rolig formiddagstund, kladd til bloggen og tiden gikk. Turid drar ut en tur for å se etter multer og jeg tar med spann for å plukke sopp. Jeg hadde sett store mengder med kantareller da jeg kom ned fra Fjellsjøen.</description>
+    </item>
+    
+    <item>
+      <title>Fjellsjøen - Vinilla Turisthytte, Storelvvollen</title>
+      <link>http://falleri.no/posts/fjellsj%C3%B8en-vinilla-turisthytte-storelvvollen/</link>
+      <pubDate>Sat, 18 Aug 2007 09:06:22 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/fjellsj%C3%B8en-vinilla-turisthytte-storelvvollen/</guid>
+      <description>Fortsatt ufyselig og kalt, og som sagt, ikke vær til en dag ved vannet. Jeg var forsatt ikke i slag og bestemte meg å gå ned til Vinilla Turisthytte og benytte meg av tilbudet om overnatting i hus. Det er forholdsvis kort vei fra Fjellsjøen og ned til Storelvvollen hvor hytta ligger. Jeg orienterte helt riktig og kom rett ned på Vinilla. Like før jeg har tatt meg inn svinger en bil opp på tunet og der kommer Turid Hørsdal, eier og vertinne på Vinilla.</description>
+    </item>
+    
+    <item>
+      <title>Evavollen - Telt ved Fjellsjøen</title>
+      <link>http://falleri.no/posts/evavollen-telt-ved-fjellsj%C3%B8en/</link>
+      <pubDate>Fri, 17 Aug 2007 08:59:32 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/evavollen-telt-ved-fjellsj%C3%B8en/</guid>
+      <description>Nok en morgen med lett regn og i tillegg ganske så kraftig vind. Takknemmelig for vinden, denne gjorde sitt til at teltet ikke var altfor vått. Etter hvert klarnet det opp, vinden fortsatte og teltet ble helt tørt. Oppbrudd og veien videre inn til Jamtvollen. Der fikk jeg levert fra meg mine &amp;ldquo;veisko&amp;rdquo; i en ferdig frankert posteske og endelig etter flere dager på bil- og seterveier kunne jeg legge til fjells igjen.</description>
+    </item>
+    
+    <item>
+      <title>Glåmos - Telt ved Evavollen/Aursunden</title>
+      <link>http://falleri.no/posts/glamos-telt-ved-evavollenaursunden/</link>
+      <pubDate>Thu, 16 Aug 2007 22:18:47 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/glamos-telt-ved-evavollenaursunden/</guid>
+      <description>Med litt vind og åpen furuskog tørket teltet rimelig fort etter nattens regn. Ikke alt for sent denne formiddagen tok jeg fatt på de siste kilometrene inn til Glåmos. Skulle innom Samvirkelaget for å supplere beholdningen av proviant for turen videre. I vegkrysset var det ikke merket vei mot sentrum og butikk. Det ble derfor noen hundre meter i feil retning for så å snu og gå tilbake.
+Den ekstra tida ble vel egentlig til et lykketreff.</description>
+    </item>
+    
+    <item>
+      <title>Røros - Telt ved Glåmos</title>
+      <link>http://falleri.no/posts/r%C3%B8ros-telt-ved-glamos/</link>
+      <pubDate>Wed, 15 Aug 2007 22:16:00 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/r%C3%B8ros-telt-ved-glamos/</guid>
+      <description>Etter en god frokost hos Ellen på Frøyas Hus og etter også fått gjort unna de siste gjøremålene la jeg i veg fra Røros mot Glåmos. Gikk den gamle seterveien øst om Enasvola og Fjellkjerka. På høydene oppover fikk jeg en fantastisk utsikt utover Røros og de gamle gruveanleggene. Det blåste kraftig fra sørvest og først nede i skogsbeltet og ved de første setrene ble litt ly. Det så ellers ut for at det var slutt med vanlig seterdrift i dette området.</description>
+    </item>
+    
+    <item>
+      <title>Håmmålvoll - Røros</title>
+      <link>http://falleri.no/posts/hammalvoll-r%C3%B8ros/</link>
+      <pubDate>Mon, 13 Aug 2007 20:34:02 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/hammalvoll-r%C3%B8ros/</guid>
+      <description>Dagen starter med noen skikkelige regnskyll. Heldigvis var teltet tatt tørt inn kvelden før og de nyvaskede klærne hang til tørk under tak. 25 km var jeg fortalt det var etter veien til Røros og med Os liggende omtrent midtveis.
+Med regn i lufta og mørke regntunge skyer tar jeg på regntøy som en ren nødløsning. Selvsagt skjer det vanlige. Med regntøy på blir du minst like våt av svette som om du gikk uten.</description>
+    </item>
+    
+    <item>
+      <title>Skardstjønna - Håmmålvoll</title>
+      <link>http://falleri.no/posts/skardstj%C3%B8nna-hammalvoll/</link>
+      <pubDate>Sun, 12 Aug 2007 10:16:39 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/skardstj%C3%B8nna-hammalvoll/</guid>
+      <description>Dette var dagen da alt var vått og fuktig. Først litt ut på dagen ble frokostgrøten kokt inne i forteltet og sekken pakket på samme sted. Alt som ennå var tørt i en indre vanntett storpose og deretter et dyvått telt og noen ditto klær stappet inn på toppen i sekken. Jeg la i veg i regn og gikk for det meste i regn ned forbi Vingelen og ned til Tolga.</description>
+    </item>
+    
+    <item>
+      <title>Kroken - Telt v/Skardstjønna</title>
+      <link>http://falleri.no/posts/kroken-telt-vskardstj%C3%B8nna/</link>
+      <pubDate>Sat, 11 Aug 2007 10:14:33 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/kroken-telt-vskardstj%C3%B8nna/</guid>
+      <description>Dette ble en dag hvor hele etappen kun gikk på vei. For det meste på gruslagte bygdeveier bortsett fra noen ganske få, kanskje så mye som 6 km på E3. Stort mer er det egentlig ikke å si om denne dagen. Ikke møtte jeg andre mennesker og bortsett fra på E3 var det bare et par biler som passerte meg. Jeg passerte Lonsjøen, helt sivbevokst og knapt mulig å komme til uten med båt.</description>
+    </item>
+    
+    <item>
+      <title>Savalen - Telt v/Kroken</title>
+      <link>http://falleri.no/posts/savalen-telt-vkroken/</link>
+      <pubDate>Fri, 10 Aug 2007 10:04:09 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/savalen-telt-vkroken/</guid>
+      <description>Etter en lang etappe dagen før og oppdatering av blogg og bilder ved på hotellets PC ble dagens vandring relativt kort. Fra Savalen til teltplassen ved Kroken er det bare 6, maksimum 7 km. Teltet ble slått opp like ved bredden av elva Tunna.
+Første del av den valgte stien var godt oppgått fram til Hemstadtjørne. Stien var klassert som natursti med flere interresante oppslag. Tre av disse har jeg tatt foto av.</description>
+    </item>
+    
+    <item>
+      <title>Romsdalsætra - Savalen</title>
+      <link>http://falleri.no/posts/romsdals%C3%A6tra-savalen/</link>
+      <pubDate>Thu, 09 Aug 2007 14:14:13 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/romsdals%C3%A6tra-savalen/</guid>
+      <description>Starter tidlig, klokken ti med tanke på den lange etappen fram til Savalen. Den var beregnet til 28 km, men ble nok nærmere tretti. Fra den siste leirplassen bærer det ut i et heller ulendt terreng uten stier på den første delen. Massevis av kratt og kjerr og for første gang siden Lindesnes skremmer jeg opp mye ryper. Det er artig å se at rypa også kan finnes i mengder her syd i landet.</description>
+    </item>
+    
+    <item>
+      <title>Folldalen - Telt v/Romsdalsætra</title>
+      <link>http://falleri.no/posts/folldalen-telt-vromsdals%C3%A6tra/</link>
+      <pubDate>Wed, 08 Aug 2007 14:12:34 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/folldalen-telt-vromsdals%C3%A6tra/</guid>
+      <description>Jeg starter i elvetida og går mot Einundalen. Opp fra Folldal kommer jeg inn i et virvar av nylagte veier til et nytt hyttefelet eller kanskje heller en hytteby. Jeg roter litt blant nylagte veier før jeg finner den stien jeg har planlagt å gå. Inne på den rette stien går det greit innover til Gortjønne og videre opp Brennknattskaret. Herfra er det et virvar av sauetråkk, men retningen mot setergrenda i Kakkeldalen er grei nok den.</description>
+    </item>
+    
+    <item>
+      <title>Gudbrandsdølen Dagningen</title>
+      <link>http://falleri.no/posts/gudbrandsd%C3%B8len-dagningen/</link>
+      <pubDate>Mon, 06 Aug 2007 22:42:43 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/gudbrandsd%C3%B8len-dagningen/</guid>
+      <description>Gudbrandsdølen Dagningen hadde 3. august fylt en side med et oppslag fra Gunnars tur:
+Første 70-åring til Nordkapp Langtur: Gunnar Aas er den første 70-åringen som går Norge på langs. Akkurat nå trasker han i norddalen [&amp;hellip;]</description>
+    </item>
+    
+    <item>
+      <title>Tverrlisætre - Folldal</title>
+      <link>http://falleri.no/posts/tverrlis%C3%A6tre-folldal/</link>
+      <pubDate>Sun, 05 Aug 2007 18:28:45 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/tverrlis%C3%A6tre-folldal/</guid>
+      <description>I dag mandag kjørte Magnar meg tilbake og inn i Grimsdalen. Med lett sekk gikk jeg fra Tverrlisætre og over fjellet til Folldalen. Dermed er også dette mellomliggende stykket dekket. Ingen fusk fra min side, heller noen kilometer mere enn noen for lite.
+På lørdagskvelden ble det hos Ruth og Magnar som lovet servert hjortestek med masse god rødvin til. Kaffe og cognac med trivelig prat utover kvelden ble det også.</description>
+    </item>
+    
+    <item>
+      <title>Øigardsseter - Telt i Grimsdalen</title>
+      <link>http://falleri.no/posts/%C3%B8igardsseter-telt-i-grimsdalen/</link>
+      <pubDate>Fri, 03 Aug 2007 23:25:22 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/%C3%B8igardsseter-telt-i-grimsdalen/</guid>
+      <description>Etter en skikkelig god natts søvn og deretter frokost på seteren legger jeg ut på den lange etappen til Grimsdalen. Like ovenfor Øigardsseter er det ut i snaufjellet og herfra og fram er jeg ovenfor skoggrensa hele tiden. Turen går gjennom Kvannslådalen, over Sletthøe, passerer øverst i Haverdalen, forbi Storrvatnet og ned til elva i Grimsdalen. På det høyeste er jeg oppe på knappe 1580 moh. Dovre nasjonalpark er i dette området for det meste runde rolige fjell.</description>
+    </item>
+    
+    <item>
+      <title>Svarttjønne - Øigardsseter</title>
+      <link>http://falleri.no/posts/svarttj%C3%B8nne-%C3%B8igardsseter/</link>
+      <pubDate>Thu, 02 Aug 2007 13:46:54 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/svarttj%C3%B8nne-%C3%B8igardsseter/</guid>
+      <description>I Folldal venter min svigerinne Ruth og Magnar på meg. Skal jeg treffe dem må jeg være framme i Folldal på lørdag og nå øyner jeg muligheten. Legger friskt i veg ned til Nord-Sel. Jeg er helt alene menneske inne i dette skog- og fjellorådet og selv om jeg beveger meg på 800 moh er det stor og fin furuskog her oppe. Alt er stille og rolig, varmt er været og svetten renner godt.</description>
+    </item>
+    
+    <item>
+      <title>Lusæter gård - Telt v/Svarttjønne</title>
+      <link>http://falleri.no/posts/lus%C3%A6ter-gard-telt-vsvarttj%C3%B8nne/</link>
+      <pubDate>Wed, 01 Aug 2007 13:36:43 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/lus%C3%A6ter-gard-telt-vsvarttj%C3%B8nne/</guid>
+      <description>Turen fra Lusæter gård forbi Lalm og opp til Svarttjønne er mest som en transportetappe å regne. Fra Lusæter bar det uten kart først langs en høgspenttrasé for så å treffe på den tidligere omtalte &amp;ldquo;kustien&amp;rdquo; og følge denne til vei. Jeg gikk etter en muntlig beskrivelse fram til veikrysset ved Bjølstadvatnet. Her gjør jeg nok en gang det dumme å ikke kontrollere med kartet og sjekke riktig kompasskurs. Først etter en tre kvarters gange mot Heidal begynner jeg å ane feiltagelsen.</description>
+    </item>
+    
+    <item>
+      <title>Lusæter gård</title>
+      <link>http://falleri.no/posts/lus%C3%A6ter-gard/</link>
+      <pubDate>Tue, 31 Jul 2007 09:22:59 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/lus%C3%A6ter-gard/</guid>
+      <description>Jeg er nå tilbake etter å ha fulgt min svigerfar til hans siste hvilested. Både fra min kones side og resten av familien er alle innstilt på at jeg fortsetter &amp;ldquo;Norge på langs&amp;rdquo; herfra.
+ Lusæter gård vil jeg gjerne få lov til å fortelle mere i fra. Gjestfriheten jeg ble møtt av skrev jeg om i min forrige oppdatering. Mer detaljert om gården er Lusæter gård den høyest beliggende fjellgården i Norge med fortsatt produksjon av melk.</description>
+    </item>
+    
+    <item>
+      <title>Sverre Pedersen</title>
+      <link>http://falleri.no/posts/sverre-pedersen/</link>
+      <pubDate>Sun, 22 Jul 2007 18:46:53 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/sverre-pedersen/</guid>
+      <description>Til alle mine nye og gamle venner: Jeg fikk i dag bud om at min svigerfar Sverre Pedersen døde på sykehjemmet i Hammerfest. Sverre var nettopp fylt 95 år og var en mann full av livsglede, humor og varme. Jeg bryter midlertidig av min vandring og drar til Hammerfest og Sverres begravelse.
+Alt mitt utstyr blir stående på Lusæter gård og derfra vil jeg starte igjen en gang i neste uke.</description>
+    </item>
+    
+    <item>
+      <title>Randsverk - Lusæter Gård</title>
+      <link>http://falleri.no/posts/randsverk-lus%C3%A6ter-gard/</link>
+      <pubDate>Sun, 22 Jul 2007 18:28:18 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/randsverk-lus%C3%A6ter-gard/</guid>
+      <description>Søndagene definerer jeg i utgangspunktet som hviledager og denne er ikke anderledes. En lang rolig formiddag og deretter en sju, åtte kilometer opp til Lusæter. Formiddagen på campingplassen gikk med trivelig prat og samvær med naboene. Både &amp;ldquo;fastboende&amp;rdquo; og &amp;ldquo;dagsboende&amp;rdquo;. Jonas, sønnen til en riktig trivelig Nittedalsfamilie, måtte bare prøve sekken min. Opp fikk han den, bare siste skulderreima måtte pappaen hjelpe til med. Av to av de andre naboene, Berit og Egil, får jeg gode råd og ønske om god tur på min vei videre mot Lalm og Sel.</description>
+    </item>
+    
+    <item>
+      <title>Randsverk</title>
+      <link>http://falleri.no/posts/randverk/</link>
+      <pubDate>Sat, 21 Jul 2007 18:13:29 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/randverk/</guid>
+      <description>Denne natten i teltet har vært den varmeste så langt oppe i fjellene. For første gang siden Sørlandet var det unødvendig med stillongs, strømper og genser i soveposen og morgenen var var god, tørr og passe varm. Etter en tidlig frokost vandrer jeg videre nedover Sjodalen og til Hindsæter Fjellhotell. Her har jeg planlagt formiddagskaffe, oppdatering av bloggen og en matbit før jeg går videre. Tiden ruller i veg og mange er interessert i mitt gjøren og laden.</description>
+    </item>
+    
+    <item>
+      <title>Gjendesheim - Telt v/Sjoa</title>
+      <link>http://falleri.no/posts/gjendesheim-telt-vsjoa/</link>
+      <pubDate>Fri, 20 Jul 2007 15:10:57 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/gjendesheim-telt-vsjoa/</guid>
+      <description>Et lite paradoks, etter gårdagens vidreverdigheter legger jeg om ruta og går direkte ut på veien fra Gjendesheim. Velger hard asfalt rett og slett for å få hvile for slitte bein og muskler etter gårdagens lange og tøffe fjellvandring. Med MBT-skoa på føttene og fjellskoa, liggeunderlaget og fiskestanga hengende utenpå på sekken er det litt av en pakning å se til. Veien er OK om enn noe mer kjedelig enn den opprinnelige traseen fra Gjendesheim opp mot Vestfjellet, forbi Bessvatnet, til Russvatnet og ned Russdalen.</description>
+    </item>
+    
+    <item>
+      <title>Veslådalen - Gjendesheim</title>
+      <link>http://falleri.no/posts/vesladalen-gjendesheim/</link>
+      <pubDate>Thu, 19 Jul 2007 16:26:20 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/vesladalen-gjendesheim/</guid>
+      <description>Jeg skriver i min ruteplan: &amp;rdquo;&amp;hellip; 22 km og en skikkelig dagsmarsj. Til Memurubu mye tøft terreng, men deretter en god gammel stølsvei.&amp;rdquo; Dette var en beskrivelse fra DNT og må kalles en heller lett overdrivelse. Stølsveien var ingen vei, men heller en stølssti. Delvis i brukbar hevd, men på sine steder både steinete, våt og gjørmete, noe kronglet opp over steile berghammere og i tillegg dårlig ryddet for overhengende greiner og trær.</description>
+    </item>
+    
+    <item>
+      <title>Fondsbu - Telt Veslåe</title>
+      <link>http://falleri.no/posts/fondsbu-telt-veslae/</link>
+      <pubDate>Wed, 18 Jul 2007 14:17:01 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/fondsbu-telt-veslae/</guid>
+      <description>Dagen gikk med. På Fondsbu var de ikke villig til å låne ut PCen for bildeoverføring. Da var det noe annet på Eidsbugarden Høyfjellshotell. Enda jeg ikke var deres gjest var det omgående ja. Egen bærbar ble stilt fritt til min rådighet og kaffe ble servert. Linja derimot, mobilt nettverk var heller treg og overføringa av mine ganske tunge bilder tok uforholdsvis mye tid, men nå er det gjort. Kommer ut hotelldøra og hva er det jeg da ser?</description>
+    </item>
+    
+    <item>
+      <title>Opptørking på Fondsbu</title>
+      <link>http://falleri.no/posts/fondsbu/</link>
+      <pubDate>Tue, 17 Jul 2007 21:11:37 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/fondsbu/</guid>
+      <description>Jeg skriver i ruteplanen for etappe 5: Den tøffeste delen av turen er tilbakelagt. Fra nå av går det mot varme og late dager i Jotunheimen.
+Det var med tanke på at når jeg nærmet meg 4. juli ville sommeren være kommet for fullt i fjellet. Nå er det den 17. og bortsett fra i Sirdalsheiene har det for det meste vært tåke, regn og temperaturer på fra 3-9 grader. Noen må ha glemt å sende sommeren hit til den sørlige fjellheimen.</description>
+    </item>
+    
+    <item>
+      <title>Telt ved Tyin</title>
+      <link>http://falleri.no/posts/telt-ved-tyin/</link>
+      <pubDate>Mon, 16 Jul 2007 20:55:31 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/telt-ved-tyin/</guid>
+      <description>Fra Tyinkrysset og innover mot Fondsbu blir det å gå på vei. Først 5-6 km på asfalt og deretter grusvei langsetter vei 252. Bakkene opp fra Tyinkrysset er ganske seige med jevn stigning over 5-6 km. Tyinkrysset fjellstua var mitt depot for etappe 5. Med ny proviant og fjellskoa hengende på sekken ble det 26 kg på ryggen. Heldigvis, fra Ljosland var mine MBT-sko kommet. Uten disse på føttene hadde jeg knapt kommet opp bakkene uten meget såre ben.</description>
+    </item>
+    
+    <item>
+      <title>Sulebu - Tyinkrysset fjellstue</title>
+      <link>http://falleri.no/posts/sulebu-tyinkrysset-fjellstue/</link>
+      <pubDate>Sun, 15 Jul 2007 11:14:50 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/sulebu-tyinkrysset-fjellstue/</guid>
+      <description>I dag er det søndag og hviledag. Tar det helt avslappet på Sulebu. Koser meg, spiser det meste av den siste maten fra forrige depot og bare nyter livet.
+Litt utpå dagen kommer to middelaldrede belgiere opp til Sulebu. Jeg inviterer begge inn til varmt hus, te og tørket reinkjøtt. Det er det eneste jeg har igjen å by på. Begge, Cill og Rich (kortform for Cicilia og Richard) er privatpraktiserende leger.</description>
+    </item>
+    
+    <item>
+      <title>Bjordalsbu - Sulebu</title>
+      <link>http://falleri.no/posts/bjordalsbu-sulebu/</link>
+      <pubDate>Sun, 15 Jul 2007 09:02:30 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/bjordalsbu-sulebu/</guid>
+      <description>På etappen Finse til Tyinkrysset var jeg egentlig overbevist om at hadde overvurdert min egen styrke, men tatt hensyn til ekstraturen til Geitryggen brukte jeg akkurat den planlagte tiden til Tyinkrysset. Litt får en &amp;ldquo;takke&amp;rdquo; regn og vind på siste del av turen til Sulebu for. Nå sitter jeg søndags formiddag på Sulebu og har kun noen få kilometer igjen til Tyin, toppen 6-7.
+Starten fra Bjordalsbu gikk i fint tørt vær om enn ikke solskinn.</description>
+    </item>
+    
+    <item>
+      <title>Iungsdalen - Bjordalsbu</title>
+      <link>http://falleri.no/posts/iungsdalen-bjordalsbu/</link>
+      <pubDate>Fri, 13 Jul 2007 08:54:39 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/iungsdalen-bjordalsbu/</guid>
+      <description>Planen var egentlig å gå forbi Bjordalsbu og telte noe lengere framme mot Breistølen. Ble tilnærmet rådet til å stoppe og ligge over i Bjordalsbu på grunn av umulige teltforhold oppe i høyden. I stedet for start kl. 0900 startet jeg derfor rundt 1130 og var framme ved Bjordalsbu kl. 1930.
+Tilbake til den egentlige turen. Ruta går gjennom Fødalen naturreservat i et flott lende, men opp 600 høydemeter fra 1100 til 1700 meter på det høyeste.</description>
+    </item>
+    
+    <item>
+      <title>Kongshelleren - Iungsdalen</title>
+      <link>http://falleri.no/posts/kongshelleren-iungsdalen/</link>
+      <pubDate>Thu, 12 Jul 2007 23:01:16 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/kongshelleren-iungsdalen/</guid>
+      <description>Gårdagens trimtur hadde løsnet godt opp i muskelaturen og i slakt fjellterreng gikk ferden videre lett. Iungsdalen turisthytte ligger på 1140 m og med start fra 1450 til maks 1500 m forteller dette om en heller rimelig høydeklatring for deretter jevnt fall i grønne fjelllier hellende ned mot Iungsdalselva. Denne fløt som en juvel i dalboten. Dagen var noe våt og med tildels mye stein i høyden ble det forsiktig gange på sleip stein.</description>
+    </item>
+    
+    <item>
+      <title>Tur/retur Kongshelleren - Geitryggen</title>
+      <link>http://falleri.no/posts/turretur-kongshelleren-geitryggen/</link>
+      <pubDate>Wed, 11 Jul 2007 22:37:13 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/turretur-kongshelleren-geitryggen/</guid>
+      <description>Turen gikk i full fart, brukte kun 2½ time på de 13-14 kilometerene. Skikkelig god følelse å kjenne at kroppen ennå var i stand til å strekke ut. GPSen var tatt vare på og det ble stekt laks til lunch. Med sekk på bare 4 kg tok jeg returen i rusletempo og bare nøt følelsen av lett bør. Da dagen i tillegg var klar og uten tåke, en av de få den senere tid var det deilig å kunne se landskapet jeg gikk i.</description>
+    </item>
+    
+    <item>
+      <title>Geitrygghytta - Kongshelleren</title>
+      <link>http://falleri.no/posts/geitrygghytta-kongshelleren/</link>
+      <pubDate>Tue, 10 Jul 2007 21:57:41 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/geitrygghytta-kongshelleren/</guid>
+      <description>Denne ruta blir spesiell og kommer til å bli vel testet av meg. I morgen tar jeg turen tur/retur Geitrygghytta uten eller med helt lett sekk. Glemte rett og slett GPSen igjen der i dag. Både for sikkerhetens skyld og oppdateringen av framdriften må den hentes før jeg går videre. Dagens trasse var for det meste snebar, men noe steinete. Opp fra 1200 m til passering på 1500 m og ned til Kongshelleren på 1450 m.</description>
+    </item>
+    
+    <item>
+      <title>Finse - Geitrygghytta</title>
+      <link>http://falleri.no/posts/finse-geitrygghytta/</link>
+      <pubDate>Mon, 09 Jul 2007 21:49:50 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/finse-geitrygghytta/</guid>
+      <description>Min søndag og hviledag på Finsehytta ble meget trivelig. Mange trivelige folk, men spesielt et nederlandskt ektepar, Dita og Jan Henk. Disse to traff jeg i tåka en kilometer eller to på vei til Finsehytta. På kvelden spiste vi middag i lag og hadde en lang trivelig samtale. Begge skal samme vei som meg og vi vil treffes på Geitrygghytta i morgen. Dagen før spanderte jeg rødvin til middagen og i dag var det Jan Henks tur.</description>
+    </item>
+    
+    <item>
+      <title>Kjeldebu - Finse</title>
+      <link>http://falleri.no/posts/kjeldebu-finse/</link>
+      <pubDate>Sun, 08 Jul 2007 19:49:10 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/kjeldebu-finse/</guid>
+      <description>Starten fra Kjeldebu var grei nok og kilometrene ned til elva Leiro gikk raskt. Jeg hadde fått melding om mye snø og kraftig smelting, men det som møtte meg ved Leiro var uventet. Enorme vannmengder, grå av masse fra breen og mellom meg og brua fosset det uvanlig kraftig. Uten sekk prøvde jeg å ta meg over, men ga opp. Det førte en sti nedover og selv om jeg regnet det som usansynlig gikk jeg for å sjekke mulighetene lengre ned.</description>
+    </item>
+    
+    <item>
+      <title>Bjoreidalshytta - Kjeldebu</title>
+      <link>http://falleri.no/posts/bjoreidalshytta-kjeldebu/</link>
+      <pubDate>Fri, 06 Jul 2007 07:48:20 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/bjoreidalshytta-kjeldebu/</guid>
+      <description>Det ble en mye senere start i dag enn opprinnelig planlagt. En god mobilforbindelse gjorde at jeg prioriterte oppdatering av blogen. Med et litt spesielt tastatur og en meget liten skjerm, tar dette sin tid. I hvert fall ble det til slutt såpass sent at planlagt telting i Leirbotn ble skrinlagt. Kvelden og natten blir på Kjeldebu ved Fisktjørna.
+Dagens etappe gikk etter mitt skjønn i en meget vakker del av Hardangervidda.</description>
+    </item>
+    
+    <item>
+      <title>Sandhaug - Bjoreidalshytta</title>
+      <link>http://falleri.no/posts/sandhaug-bjoreidalshytta/</link>
+      <pubDate>Thu, 05 Jul 2007 17:49:51 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/sandhaug-bjoreidalshytta/</guid>
+      <description>Starten gikk sent i dag også, først kl. 1200 la jeg i vei mot Bjoreidal. Var tidlig oppe, men tok livet helt avslappet. Tross alt går jeg nå inn i den helt flate delen av Hardangervidda. Jeg karakteriserer den som ganske kjedelig. En mann jeg traff på underveis definerte denne delen som en transportetappe. For hans vedkommende startet Hardangervidda i fra Nordmannslågen. Da ble vidda mer spennende, fisket godt, i det hele tatt mye mer variasjon i landskapsformene.</description>
+    </item>
+    
+    <item>
+      <title>Litlos - Sandhaug</title>
+      <link>http://falleri.no/posts/litlos-sandhaug/</link>
+      <pubDate>Wed, 04 Jul 2007 12:27:40 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/litlos-sandhaug/</guid>
+      <description>En dag med skikkelig regn og vinden rett imot. Alt i alt ikke så verst her inne på Hardangervidda når jeg får høre at det har vært storflom med stengte veier og ødelagte avlinger lengere øst og sør i landet. Her inne i fjellet har regnet de siste dagene tæret hardt på snøen. Forleden gikk jeg sammen med Berit og Ruth på forholdet 80% snø og 20% barmark. I dag var det motsatt.</description>
+    </item>
+    
+    <item>
+      <title>Hellevassbu - Litlos</title>
+      <link>http://falleri.no/posts/hellevassbu-litlos/</link>
+      <pubDate>Mon, 02 Jul 2007 11:23:24 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/hellevassbu-litlos/</guid>
+      <description>Etter en god natts søvn tar jeg dagen med ro og starter først i tolvtida mot Litlos. Berit og Ruth gikk en time tidligere i et ennå rimelig klart vær. På vei opp mot Buadalen kommer tåka sigende, riktig tjukk og fra nå av er det bare kart og kompass, assistert av GPS-peilinger for posisjon som gjelder.
+Jeg tenker på de to som er forran meg. Navigerer litt feil, kommer til høyre for en liten nut.</description>
+    </item>
+    
+    <item>
+      <title>Avgang Haukeliseter</title>
+      <link>http://falleri.no/posts/avgang-haukeliseter/</link>
+      <pubDate>Sun, 01 Jul 2007 10:50:18 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/avgang-haukeliseter/</guid>
+      <description>I et strålende vær etter duglig frokost med egen kokt havregrøt legger jeg i vei fjellsida opp fra Haukeliseter. Lia opp er sydvent og uten snø. Tydelige spor i terrenget viser at her er trafikken mye større enn i Sirdals- og Ryfylkeheiene. Til sine steder er det direkte tråkket vei innover den første delen av vidda. Tråkket gir seg noe etter noen kilometer inn fra Haukeliseter, men hele veien inn mot Hellevassbu der det er snøfritt er stien tydelig merket av stor trafikk.</description>
+    </item>
+    
+    <item>
+      <title>Holmavatn turisthytte - Haukeliseter</title>
+      <link>http://falleri.no/posts/holmavatn-turisthytte-haukeliseter/</link>
+      <pubDate>Fri, 29 Jun 2007 17:56:42 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/holmavatn-turisthytte-haukeliseter/</guid>
+      <description>Kontrastene er store, i går tåke, vind og surt, i dag strålende sol, skyfritt og varmt. Turen fram mot Haukeliseter går i lettgått terreng fram mot Turistskaret. Her må trugene på og med mange bratte snefonner får jeg konstatert at det går å gå fiskebein med truger. Stemple går i hvert fall ikke. Det er storslått og vakkert i sol med fantastiske formasjoner på fonnene i dette området. Trugene har jeg på til forbi Fjellvåknuten.</description>
+    </item>
+    
+    <item>
+      <title>Bleskestadmoen turisthytte - Holmavatn turisthytte</title>
+      <link>http://falleri.no/posts/bleskestadmoen-turisthytte-holmavatn-turisthytte/</link>
+      <pubDate>Thu, 28 Jun 2007 17:48:54 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/bleskestadmoen-turisthytte-holmavatn-turisthytte/</guid>
+      <description>Dagen ser bra ut. Grått, småregn, men adskillig mindre tåke enn dagen før. Jeg starter turen mot Holmavatn, en 17-18 km lang tur. Det går rimelig greit opp til demningen ved Sandvatnet. Det tar til å bli kjøligere og blåse noe. Samtidig begynner tåka å sige nedpå. Jeg runder vannet til vestre bredd hvor utbyggeren har en hytte stående. I ly for denne får jeg tatt på noe mere klær. Termometeret på hytta viser 4 grader.</description>
+    </item>
+    
+    <item>
+      <title>Mosøl turisthytte - Bleskestadmoen turisthytte</title>
+      <link>http://falleri.no/posts/mos%C3%B8l-turisthytte-bleskestadmoen-turisthytte/</link>
+      <pubDate>Tue, 26 Jun 2007 17:41:00 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/mos%C3%B8l-turisthytte-bleskestadmoen-turisthytte/</guid>
+      <description>En grei tur på rundt 15 km og anslått til 5 timer. Jeg brukte 7 timer inklusiv lunch og diverse fotografering. Traff forresten et par fra Fredrikstad som var der på dagstur. Et varierende og spetaktulært landskap med flere gamle setergrender langs elva Gaukstølåa. De første kilometrene var også denne elva helt tørrlagt, men etter en inntaksdam rant den i fordums prakt. Grønt og praktfullt hele veien. I vannskillet ned mot Bleskestadmoen blir det mer dramatiskt.</description>
+    </item>
+    
+    <item>
+      <title>Krossvatn turisthytte - Mostøl turisthytte</title>
+      <link>http://falleri.no/posts/krossvatn-turisthytte-most%C3%B8l-turisthytte/</link>
+      <pubDate>Mon, 25 Jun 2007 16:15:21 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/krossvatn-turisthytte-most%C3%B8l-turisthytte/</guid>
+      <description>En gledelig overraskelse, bru over Storåa og deretter strake vegen innover mot Nøvlenuten. I oppstigningen kom trugene på for første gang. De var siden stort sett på over hele fjellpartiet til langt ned i Kjyrkjesteindalen. Nærmest full, om enn varm vinter i denne høyden på 1000-1250 meter.
+Kontrasten er stor når jeg kommer nedover dalen mot Mostølen. Full sommer, med grønne bjørker og enorme blåbærlier. En vakker og flomstor elv som plutselig ble til intet.</description>
+    </item>
+    
+    <item>
+      <title>Hovatn turisthytte - Krossvatn turisthytte</title>
+      <link>http://falleri.no/posts/hovatn-turisthytte-krossvatn-turisthytte/</link>
+      <pubDate>Sun, 24 Jun 2007 16:09:52 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/hovatn-turisthytte-krossvatn-turisthytte/</guid>
+      <description>Tåka ligger som en grøt kl. 7 om morgenen. En 1&amp;frasl;2 time senere letter den og dagen ser ut til å bli klar og fin. Fra hytta går alt greit fram tll utløpet av Hovatnet. Vannføringa er på grensen til forsvarlig kryssing. Ingen isgang og med turskoa på og gode gåstaver ser jeg ikke det store problemet, bortsett fra våte sko.
+Videre går det i et arktiskt og imponerende fjellandskap med snø, islagte vann, grønne bare områder, alt omkranset av fjelltopper og nuter.</description>
+    </item>
+    
+    <item>
+      <title>Storstein turisthytte - Hovatn turisthytte</title>
+      <link>http://falleri.no/posts/storstein-turisthytte-hovatn-turisthytte/</link>
+      <pubDate>Fri, 22 Jun 2007 16:03:31 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/storstein-turisthytte-hovatn-turisthytte/</guid>
+      <description>Dette ble en distansetest. Kartbladet oppgir avstanden fra Storstein til pos. 0384300 - 6575350 til 5 km. Dette strekket målte jeg med påslått GPS til i overkant 6 km, et påslag på 20%. Heretter vil jeg bruke et tillegg på fra 15-20 % alt etter terrengets beskaffenhet. GPSen brukes ellers kun til posisjonsbestemmelse ved behov.
+Denne traseen jeg nå går er ganske tøff med mye opp og ned. I tillegg satt gårdagens vandring på snø godt i beina.</description>
+    </item>
+    
+    <item>
+      <title>Kringlevatn - Storsteinen turisthytte</title>
+      <link>http://falleri.no/posts/kringlevatn-storsteinen-turisthytte/</link>
+      <pubDate>Thu, 21 Jun 2007 15:59:40 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/kringlevatn-storsteinen-turisthytte/</guid>
+      <description>Fra Kringlevatn fram til kryssing av elva i Breidalen var det et lett og fint terreng. Vading over elva gikk greit tross mye vann. Uten skikkelige sko og gamasjer på hadde jeg fått store problemer. Barbeint ville det vært direkte uansvarlig å lagt over elva. Strømmen var sterkere her enn i Ljosåni. Fra nå av og fram til Skorpeskaret gikk det omentrent bare på snø. Snøen bar godt og trugene hang bare på sekken som ekstra ballast.</description>
+    </item>
+    
+    <item>
+      <title>Bossbu - Kringlevatn</title>
+      <link>http://falleri.no/posts/bossbu-kringlevatn/</link>
+      <pubDate>Wed, 20 Jun 2007 15:52:36 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/bossbu-kringlevatn/</guid>
+      <description>I går hørtes jeg sikkert noe pesimistisk ut, men turen fra Bossbu gikk greit. 4-5 km med snø hvorav 1,5-2,9 km sammenhengende. Sekken som i går var blytung var noe helt annet i dag. Alt gikk lettere. Det var nok en mening med feilnavigeringen tidligere og den ekstra dagen det tok. En dag tidligere og dette strekket hadde vært utrolig tungt. Nå er kroppen fint restaurert. Tro om det ikke er høyere makter som har stått meg bi.</description>
+    </item>
+    
+    <item>
+      <title>Fjelltopp ved Bossbu</title>
+      <link>http://falleri.no/posts/fjelltopp-ved-bossbu/</link>
+      <pubDate>Tue, 19 Jun 2007 21:48:25 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/fjelltopp-ved-bossbu/</guid>
+      <description>Jeg sitter på en fjelltopp rett nord om Bossbu turisthytte med noe varierende kvalitet på sambandet. Det er fredelig, men stilt her inne i fjellheimen. På min tur fra Øyufsbu til Svartenut traff jeg kun på to mann, begge hollendere på tur inne i fjellheimen. Ellers er det atskillig mer stilt her enn hjemme hos oss. Det vanlige fuglelivet mangler. Jeg har hverken sett eller hørt en eneste heilo. Bekasiner, heipipelerker eller fjelljo mangler totalt.</description>
+    </item>
+    
+    <item>
+      <title>Øyufsbu</title>
+      <link>http://falleri.no/posts/%C3%B8yufsbu/</link>
+      <pubDate>Mon, 18 Jun 2007 11:50:17 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/%C3%B8yufsbu/</guid>
+      <description>Sitter litt bortom Øyufsbu i nydelig vær og skriver. Voknet først halvti i dag etter en skikkelig god nattesøvn. Nok om det, tilbake til start.
+
+Turen fra Ljosland til Gaukhei gikk greit nok, men var rimelig lang og strabasiøs. De fem timene oppgitt i TFIN er etter å ha tatt båt inn til enden av Langevannet. Jeg gikk helt rundt på en dårlig merket og ryddet sti. På hytta fikk jeg opplyst at bare en av hundre går rundt vannet.</description>
+    </item>
+    
+    <item>
+      <title>Avreise fra Ljosland</title>
+      <link>http://falleri.no/posts/avreise-fra-ljosland/</link>
+      <pubDate>Fri, 15 Jun 2007 21:42:19 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/avreise-fra-ljosland/</guid>
+      <description>Her starter turen fra Ljosland Fjellstue og inn i fjellheimen. Usikkert med hensyn til mobildekning inntil jeg når Haukeliseter.</description>
+    </item>
+    
+    <item>
+      <title>Ljosland Fjellhage</title>
+      <link>http://falleri.no/posts/ljosland-fjellhage/</link>
+      <pubDate>Thu, 14 Jun 2007 14:56:51 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/ljosland-fjellhage/</guid>
+      <description>Andre dag på Ljosland Fjellstove, men i morgen tidlig går turen innover til Gaukhei turisthytte. Dagene har jeg brukt vel. Late dager uten stress. Revurdert tidsforbruk på etappene og planlagt nye datoer for depoteskene. Uten Najax til hjelp har jeg også skåret noe ned på egen proviant for å lette litt på sekken.
+Her i Ljosland Fjellhage (ikke Fjellurtehage) hadde jeg i morges en lengre prat med Anne Karin Bakke Eriksen.</description>
+    </item>
+    
+    <item>
+      <title>Ljosland Fjellstove</title>
+      <link>http://falleri.no/posts/ljosland-fjellstove/</link>
+      <pubDate>Wed, 13 Jun 2007 14:42:21 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/ljosland-fjellstove/</guid>
+      <description>Gårdagen etappe videre fra Åseal ble lang og uten de store begivenhetene. Planen var å telte etter noen kilometer fra Åseral, men jeg valgte å gå helt fram til Ljosland Fjellstove. Tilsammen fra starten i går morges ble det omentrent 40 kilometer. Jeg skulle egentlig overnatte underveis. Bra teltplass fant jeg, men derimot ikke godt drikkevann på denne delen av veien. Valgte derfor å gå helt fram til fjellstova. Var framme tidlig på natta og slo opp teltet rett inn i veggen på huset.</description>
+    </item>
+    
+    <item>
+      <title>Åseral</title>
+      <link>http://falleri.no/posts/aseral/</link>
+      <pubDate>Tue, 12 Jun 2007 19:59:40 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/aseral/</guid>
+      <description>I går nådde jeg som sagt Konsmo. Der tok jeg en lang og god siesta på den lokale badeplassen. Plassen ligger ved Ytre Øydavannet. Der var jeg framme litt over kl. 2115. Underveis var bedt inn på litt kaldt å drikke. Du har vel tid til en 5 minutters stopp ble det sagt. Selvsagt, men 5 minutter ble til en halv time og en skikkelig hyggelig prat.
+Teltet ble som sagt reist ved Ytre Øydnavannet og der laget jeg et av mine kulinariske måltider, kokt naturris med fenalår og vann til drikke.</description>
+    </item>
+    
+    <item>
+      <title>Videre uten Najax</title>
+      <link>http://falleri.no/posts/videre-uten-najax/</link>
+      <pubDate>Sun, 10 Jun 2007 14:38:30 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/videre-uten-najax/</guid>
+      <description>Fredag var det til veterinæren for endelig vurdering av klobruddet til Najax. Alt så fint ut og veterinæren ønsket oss god tur videre og var meget optimistisk på våre vegne. Fortsettelse og start ble lagt til godt etter solnedgang samme kveld. Najax la i vei i fint driv, men tross alle hensyn, etter 2-3 km begynte dyret å dabbe av og la seg forholdsvis fort derretter pladask ned. Han lot seg, med gode ord og også med klar kommando, kun bevege seg noen få skritt.</description>
+    </item>
+    
+    <item>
+      <title>Rana Blad sist lørdag</title>
+      <link>http://falleri.no/posts/rana-blad-sist-l%C3%B8rdag/</link>
+      <pubDate>Fri, 08 Jun 2007 17:42:12 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/rana-blad-sist-l%C3%B8rdag/</guid>
+      <description>Rana Blad hadde Gunnar og Najax sin gledesytring som midtsideoppslag i helgebilaget sist lørdag.</description>
+    </item>
+    
+    <item>
+      <title>Kart</title>
+      <link>http://falleri.no/pages/kart/</link>
+      <pubDate>Thu, 07 Jun 2007 14:32:13 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/kart/</guid>
+      <description>Dette kartet viser hvor ruta går. Den grønne streken viser hvor jeg har gått til nå. Den blå viser resten ruta for sommeren 2009.</description>
+    </item>
+    
+    <item>
+      <title>Andre dag på Vigeland</title>
+      <link>http://falleri.no/posts/andre-dag-pa-vigeland/</link>
+      <pubDate>Wed, 06 Jun 2007 11:26:53 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/andre-dag-pa-vigeland/</guid>
+      <description>Gårdagens besøk hos veterinær var både trasig, men ga sammtidig håp. Diagnosen for Najax var en brukket klo/klokapsel. Veterinæren ga en tre dagers kur med smertestillende og antibiotika. Videre tar jeg en par korte turen med på ca. en halv time hunden om dagen. Skal tilbake på fredagen og kan da sansynligvis fortsette på etappen til Lojosland. Alternativet trekking av kløa vil bety en 6 ukers rekonvalenstid. I mellomtiden gjør jeg det beste ut av forsinkelse.</description>
+    </item>
+    
+    <item>
+      <title>Vigeland</title>
+      <link>http://falleri.no/posts/vigeland/</link>
+      <pubDate>Tue, 05 Jun 2007 11:58:06 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/vigeland/</guid>
+      <description>Turen fra Lindesnes gikk greit. Første natten teltet vi i Susvig ved den gamle Postvei ca. 4 km fra fyret. Neste dag var planen å komme noen kilometer nord om Vigeland, men desverre Najax fikk problem med venstre framfot og begynte å halte. Vi hadde da 1 km igjen til Vigeland. Fikk haik inn og planla telting på plenen ved bensinstassjonen. Der kom jeg i prat med Espen og ble tilbudt telting i hans hage.</description>
+    </item>
+    
+    <item>
+      <title>Avlevert</title>
+      <link>http://falleri.no/posts/avlevert/</link>
+      <pubDate>Sun, 03 Jun 2007 23:58:32 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/avlevert/</guid>
+      <description>Da er jeg, Flemming og Mikkel akkurat kommet oss hjem til Bergen igjen etter å ha avlevert mann og hund ved Lindesnes fyr. Så får vi bare håpe at vandreren klarer å få ordnings på det tekniske utstyret slik at han klarer å avlevere rapport etterhvert som turen skrider fram.</description>
+    </item>
+    
+    <item>
+      <title>Fit for fight</title>
+      <link>http://falleri.no/posts/fit-for-fight/</link>
+      <pubDate>Fri, 01 Jun 2007 17:22:40 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/fit-for-fight/</guid>
+      <description>Idag fredag 1. juni sitter jeg i Bergen og er ferdig med de siste forberedelsene. Alle små detaljer er på plass. Avtaler er gjort, følgebrev for mine depoter skrevet, mann og hund, &amp;ldquo;Fit for fight&amp;rdquo;. Utpå ettermiddagen starter bilturen til Lindesnes Fyr og mandag 4. juni er det bare å hive seg ut i det store eventyret. Hilsen fra Gunnar og Najax</description>
+    </item>
+    
+    <item>
+      <title>71-åring til topps på Mount Everest</title>
+      <link>http://falleri.no/posts/71-aring-til-topps-pa-mount-everest/</link>
+      <pubDate>Wed, 30 May 2007 13:04:09 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/71-aring-til-topps-pa-mount-everest/</guid>
+      <description>Etter Nordkapp er det bare å legge seg i trening, så kanskje du kan bli den første 72-åringen.</description>
+    </item>
+    
+    <item>
+      <title>Teltet</title>
+      <link>http://falleri.no/posts/teltet/</link>
+      <pubDate>Mon, 21 May 2007 23:53:15 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/teltet/</guid>
+      <description>Idag ble teltet testet og avfotografert sammen med hund og mann.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 11</title>
+      <link>http://falleri.no/pages/etappe-11/</link>
+      <pubDate>Sat, 19 May 2007 11:13:31 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-11/</guid>
+      <description>Jeg går inn i Børgefjellet, vår kanskje vakreste nasjonalpark og derfra til hjemlige trakter.
+Rørvik – Umbukta 3&amp;frasl;7 – 16&amp;frasl;7 Lengde: 205 km + 15 % = 237 km/22 = 11+3 dager
+Dette blir så langt den lengste, men også vakreste etappen. Det skal bli godt å kunne supplere provianten med egen fanget fisk. Uavhengig av dette må jeg prøve å få avtalt et mulig depot på nordsida av Børgefjell nasjonalpark.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 10</title>
+      <link>http://falleri.no/pages/etappe-10/</link>
+      <pubDate>Sat, 19 May 2007 11:12:14 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-10/</guid>
+      <description>Første etappe i år er tilbakelagt. Det gjenstår å komme seg til Røyrvik før det store eventyret tar til. 
+Sandvika/Nordli – Røyrvik 1&amp;frasl;7 – 2&amp;frasl;7 Lengde: 62 km + 10 % = 68 km/34 = 2 dager
+På denne etappen blir det å traske landeveien. Etappen er kort og jeg går fram til Røyrvik på to dager, noe som betyr at mine MBT-sko får brynet seg igjen.
+Depot Depot med proviant og utstyr for etappen sendes: Nte Expert Nordli, Post i butikk, Sandvika, 7882 Nordli, tlf.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 9</title>
+      <link>http://falleri.no/pages/etappe-9/</link>
+      <pubDate>Sat, 19 May 2007 11:08:48 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-9/</guid>
+      <description>Nå går det inn i Nord-Trøndelags grenseområder med en blanding av skog, fjell og vann 
+Teveltunet – Sandv./Nordli 3&amp;frasl;8 – 15&amp;frasl;8 Lengde: 197 km + 15 % = 227 km/22 = 11+2 dager
+En lang etappe beregnet til 13 dager. I disse grenseområdene er det mye snaufjell, men også fjellgårder, rikt bevokste daler, elver og fiskevann. I det hele en meget vekslende natur.
+Depot Proviant og utstyr for etappen deles i to og sendes etter avtale til: Teveltunet Fjellstue.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 8</title>
+      <link>http://falleri.no/pages/etappe-8/</link>
+      <pubDate>Sat, 19 May 2007 11:07:47 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-8/</guid>
+      <description>Verdensarven Røros og videre innover i Falkbergets rike med Sylane som desserten
+Røros–Teveltunet 23&amp;frasl;7 – 2&amp;frasl;8 Lengde: 127 km + 10 % = 140 km/22 = 10+1 dager
+Noe nord for Røros, fra Jensåsvollan er det tilbake på Turistforeningens rute- og hyttenett. Nå går jeg inn i Sylane og Trodhjems Turistforenings område. DNTs &amp;ldquo;Til fjells i Norge&amp;rdquo; er igjen et godt grunnlag. Denne etappen er den første med planlagt følge. Min kjære datter, Camilla kommer fra Oslo og blir med.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 7</title>
+      <link>http://falleri.no/pages/etappe-7/</link>
+      <pubDate>Sat, 19 May 2007 11:04:38 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-7/</guid>
+      <description>Folldal til Røros er en etappe helt utenfor det merkede rutenettet til Den Norske Turistforening
+Folldal – Røros 16&amp;frasl;7 – 21-22&amp;frasl;7 Lengde: 118 km + 10 % = 130 km/22 = 6+1 dager
+Fra Folldal legger jeg veien over fjellet og følger sti mot Lykkjesætre. Derfra går jeg til Stugulisætra og krysser Einunna 500 m lenger ned. Videre går turen til Savalen og om Lonåsmoen til Vingelen. Herfra er det ikke mye igjen av etappen og turen går på vei ned til Dalsbygda og fortsetter forbi Sætersjøen, Galåa og til Røros.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 6</title>
+      <link>http://falleri.no/pages/etappe-6/</link>
+      <pubDate>Sat, 19 May 2007 11:03:15 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-6/</guid>
+      <description>Rondane og Alvdal Vestfjell står for tur. Full sommer og min firbente venn kommer til å få bryne seg
+Lalm – Folldal 11&amp;frasl;7 – 14-15&amp;frasl;7 Lengde: 63,5 km + 10 % = 70 km/22 = 4+1 dager
+Fra Lalm går det bratt opp fjellet før det flater ut til nedstigningen til Sel. Deretter nye stigninger oppover og inn mot Høvringen og Rondane Nasjonalpark. En tøff etappe med mye opp og ned i forhåpentligvis god sommervarme.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 5</title>
+      <link>http://falleri.no/pages/etappe-5/</link>
+      <pubDate>Sat, 19 May 2007 11:02:18 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-5/</guid>
+      <description>Den tøffeste delen av turen er tilbakelagt. Fra nå går det mot varmere og late dager i Jotunheimen.
+Tyinkrysset – Lalm 4&amp;frasl;7 – 10&amp;frasl;7 Lengde: 114 km + 10 % = 125 km/22 = 6+1 dager
+Fare for vinter i Jotunheimens fjell er definitivt tilbakelagt. Fra nå av ser jeg for meg varme og late dager. At været kan veksle er en selvfølge, men det er en del av sjarmen. Fortsatt følger jeg DNTs løypenett.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 4</title>
+      <link>http://falleri.no/pages/etappe-4/</link>
+      <pubDate>Sat, 19 May 2007 11:00:36 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-4/</guid>
+      <description>Stadig høyt til fjells, men selv om jeg ennå må regne med å gå på noe snø er det full sommer i fjellet
+Finse – Tyinkrysset 28&amp;frasl;6 – 3&amp;frasl;7 Lengde: 97 km + 10 % = 107 km/22 = 5+1 søndag
+Siste del av Hardangervidda og inn i Skarvheimen. Først når dette strekket er tilbakelagt regner jeg med å kunne sende trugene hjem. Fortsatt følger jeg DNTs rutenett og turen går om om DNT Oslo og Omengs hytter: Geitrygghytta, Kongshelleren, Iungdalshytta, Bjordalsbu, Breistølen Turisthytte (privat), Sulebu og til Tyinkrysset.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 3</title>
+      <link>http://falleri.no/pages/etappe-3/</link>
+      <pubDate>Sat, 19 May 2007 10:39:23 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-3/</guid>
+      <description>Hardangervidda står for tur. Den kan ennå by på utfordringer med mye vær og overraskelser.
+Haukeliseter – Finse 21&amp;frasl;6 – 27&amp;frasl;6 Lengde: 118 km + 10 % = 130 km/22 = 6+1 søndag
+Nå går turen innover mot Hardangervidda. Den planlagte ruta følger også her DNTs rutenett og legges i utgangspunktet om disse turisthyttene til DNT Oslo og Omegn: Hellevassbu, Litlos, Sandhaug, Trondsbu, Dyranut, Kjeldebu til Finsehytta. Ruta kan bli en annen dersom forholdene i fjellet tilsier det.</description>
+    </item>
+    
+    <item>
+      <title>Etappe 2</title>
+      <link>http://falleri.no/pages/etappe-2/</link>
+      <pubDate>Sat, 19 May 2007 10:33:59 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-2/</guid>
+      <description>På etappen forlates vei og asfalt og jeg følger DNTs løypenett. I tilfelle snø i høyden vil truger bli brukt.
+Ljosland – Haukeliseter 9&amp;frasl;6 – 20&amp;frasl;6 Lengde: 174 km + 10 % = 191 km/22 = 10+2 søndager
+Fra Ljosland går turen inn i Setesdals- og Ryfylkeheiene. Jeg har skiftet fra mine MBT-sko til Jörnkängan fjellsko. Sekk og kløv er blitt tyngre, men ingen etapper vil kreve mer enn 18 kg i sekk og 15 kg i kløv.</description>
+    </item>
+    
+    <item>
+      <title>Takk til sponsorer</title>
+      <link>http://falleri.no/pages/takk/</link>
+      <pubDate>Sat, 19 May 2007 01:36:04 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/takk/</guid>
+      <description>Jeg vil gjerne takke mine sponsorer som har vært så vennlig å utstyre meg for turen.
+Hvorfor valgte jeg teltet Nallo 2 GT fra Hilleberg? Jeg falt rett å slett for løsningen med forteltet. Når dertil Hilleberg er kjent for gode produkter var valget enkelt. Jeg ser fram til å få brukt teltet på min tur &amp;ldquo;Norge på langs&amp;rdquo;.
+&amp;ldquo;Norge på langs&amp;rdquo; går til dels på vei og asfalt. Er det noe som røyner på må det være mil etter mil med asfalt.</description>
+    </item>
+    
+    <item>
+      <title>Lindesnes i storm</title>
+      <link>http://falleri.no/posts/lindesnes-i-storm/</link>
+      <pubDate>Sat, 19 May 2007 01:25:18 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/lindesnes-i-storm/</guid>
+      <description>Ja, slik kan det vel også se ut ved fyret. Håper du blir heldigere med været når turen starter.</description>
+    </item>
+    
+    <item>
+      <title>Gjestebok</title>
+      <link>http://falleri.no/pages/gjestebok/</link>
+      <pubDate>Sat, 19 May 2007 00:37:41 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/gjestebok/</guid>
+      <description>Dette er gjesteboka for “Den glade vandrer&amp;rdquo;. Her kan du legge igjen en liten hilsning eller hva du ellers måtte ha på hjertet. Underveis på turen vil vi med jamne mellomrom lesa gjesteboka og vi setter stor pris på alle som skriv seg inn.
+Hilsen fra Gunnar og Najax</description>
+    </item>
+    
+    <item>
+      <title>Etappe 1</title>
+      <link>http://falleri.no/pages/etappe-1/</link>
+      <pubDate>Fri, 18 May 2007 18:43:32 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/etappe-1/</guid>
+      <description>Første etappe blir den store utfordringen, ikke minst for hunden Najax med mye vei og asfalt.
+Lindesnes – Ljosland 4&amp;frasl;6 – 8&amp;frasl;6 Lengde: 121 km + 5 % = 128 km/22= 5+1 søndag
+Etappen fra Lindesnes fyr og fram til Ljosland i Åseral kommune går for det meste på riks- og fylkesveier. Denne etappen med nærmere 13 mil på asfalt ser jeg som den store utfordringen, både for egne føtter og ikke minst labbene til min hund Najax.</description>
+    </item>
+    
+    <item>
+      <title>falleri.no</title>
+      <link>http://falleri.no/posts/fallerino/</link>
+      <pubDate>Fri, 18 May 2007 15:01:08 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/fallerino/</guid>
+      <description>Da skulle vi snart være klar med en ny addresse for denne bloggen, syng med!</description>
+    </item>
+    
+    <item>
+      <title>Ruta</title>
+      <link>http://falleri.no/pages/ruta/</link>
+      <pubDate>Tue, 15 May 2007 12:42:20 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/ruta/</guid>
+      <description>Turen er en 70-årsgave fra meg selv til meg selv. Den er å se på som en gledesytring for god helse i et godt samfunn. Jeg vil, sammen med min Golden retriever Najax ta turen over to somrer. Planlagt start er fra Lindesnes fyr 1. juni 2007.
+De beregnede dagsetapper forhøyes alltid til hele dager og hver søndag tar jeg fri. Første året avsluttes ved Umbukta ved Mo i Rana i månedsskiftet august/september.</description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>http://falleri.no/posts/testing/</link>
+      <pubDate>Tue, 15 May 2007 12:38:49 +0000</pubDate>
+      
+      <guid>http://falleri.no/posts/testing/</guid>
+      <description>First post to the new blog. How exciting.</description>
+    </item>
+    
+    <item>
+      <title>Velkommen</title>
+      <link>http://falleri.no/pages/velkommen/</link>
+      <pubDate>Tue, 15 May 2007 12:35:45 +0000</pubDate>
+      
+      <guid>http://falleri.no/pages/velkommen/</guid>
+      <description>Nå er tiden der, 4. juni realiseres min 70-årsgave, ”Norge på langs”. Alle inviteres til å følge meg på nettet. Daglige oppdateringer av ruten på Google Map vil til enhver tid å vise hvor jeg er.
+Denne ekspedisjonen er blott til lyst og glede og ingen rekorder skal settes. Sammen med min Golden retriever Najax tar jeg tiden til hjelp. En vakker plass, et godt fiskevann, et trivelig selskap; slikt blir det mer en gjerne en ekstra overnatting og en god stund av.</description>
+    </item>
     
   </channel>
 </rss>
