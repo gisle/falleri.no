@@ -3,3 +3,7 @@ languageCode = "en-us"
 title = "Den glade vandrer"
 publishdir = "docs"
 theme = "ananke"
+DefaultContentLanguage = "nb"
+
+[params]
+featured_image = "/uploads/2010/07/cropped-2712698849_6f779b6be8_b.jpg"
