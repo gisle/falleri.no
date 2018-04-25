@@ -9,4 +9,4 @@ Teltet ble som sagt reist ved Ytre Øydnavannet og der laget jeg et av mine kuli
 
 Etter en flott dag med bading og trivelig samvær la jeg videre på min ferd utpå ettermiddagen.  Tilbakela en 22 kilometer. Passerte Sveindal og teltet  ved bredden av Mandalsåna. Jeg er framme på Åseral og sender disse ordene fra den lokale ambulansestasjonen. Har også hatt en prat med Åserals reiselivssjef. Reiselivssjefen redigerer en lokal nettavis, <a href="http://www.moisund.com">www.moisund.com</a>. Det blir vistnokk et lite innlegg fra min tur der. Alt er vel og mine MBT-sko er en drøm å gå med på hard asfalt.
 
-<img src='http://www.aas-sw.no/npl3/wp-content/uploads/2007/06/11062007.jpg' alt='Ytre Audnevann' />
+<img src='/uploads/2007/06/11062007.jpg' alt='Ytre Audnevann' />
