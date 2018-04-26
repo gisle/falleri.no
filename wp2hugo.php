@@ -38,6 +38,7 @@ foreach ($posts as $id => $post) {
 	$content = str_replace("\r", "", $post['content']);
 	$content = str_replace("http://www.aas-sw.no/npl3/wp-content", "", $content);
 	$content = str_replace("http://falleri.no/wp-content", "", $content);
+	$content = str_replace('<p style="margin-bottom: 0cm">&nbsp;</p>', "\n", $content);
 	fwrite($fh, $content);
 	fwrite($fh, "\n");
 	fclose($fh);
